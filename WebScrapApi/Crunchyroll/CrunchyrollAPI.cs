@@ -44,7 +44,7 @@ namespace WebScrapApi.Crunchyroll
         #region Get an Anime from Crunchyroll with an url
         public async Task<Anime> GetAnimeByUrlAsync(string url)
         {
-            var htmldocument = await Helper.GetPageDocument(Browser.Standard, url);
+            var htmldocument = await Helper.GetPageDocument(url);
 
             var List = htmldocument.DocumentNode.Descendants("div")
                               .Where(node => node.GetAttributeValue("class", "")

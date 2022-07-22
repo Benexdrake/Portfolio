@@ -43,10 +43,7 @@ namespace WebScrapApi
                     driver = Chrome();
                     break;
                     default:
-                    if(driver == null)
-                    {
-                        driver = Firefox();
-                    }
+                    driver = Firefox();
                     break;
             }
             driver.Navigate().GoToUrl(url);
