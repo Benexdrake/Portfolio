@@ -6,17 +6,21 @@ namespace WebScrapApi
     {
         static void Main(string[] args)
         {
-            var Crunchyroll = new CrunchyrollAPI();
+            var api = new Crunchyroll_V1();
 
-            List<string> AnimeURLList = Crunchyroll.GetAllAnimeURLsAsync(Browser.Firefox).Result;
-            Console.WriteLine(AnimeURLList.Count);
-
-            foreach (var url in AnimeURLList)
+            // Get All Animes from https://www.crunchyroll.com/de/videos/anime/updated
+            var info = api.GetAnimeUpdateList().Result;
+            foreach (var item in info)
             {
-                var animes = Crunchyroll.GetAnimeByUrlAsync(url).Result;
-                Console.WriteLine(animes.ToString());
+                Console.WriteLine(item.Episodes);
             }
-            Console.ReadKey();
+
+            // Get All Animes from https://www.crunchyroll.com/de/videos/anime/alpha by Group (numeric, a-z)
+            var all = api.GetAllAnimesbyGroupAsync(Browser.Chrome).Result;
+            foreach (var item in all)
+            {
+                Console.WriteLine(item.ToString());
+            }
         }
     }
 }

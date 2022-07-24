@@ -3,6 +3,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Firefox;
 using System.Globalization;
+using Newtonsoft.Json;
 using System.Text.RegularExpressions;
 
 namespace WebScrapApi
@@ -10,8 +11,8 @@ namespace WebScrapApi
     public class Helper
     {
         private static readonly Regex Regex = new Regex(@"\\[uU]([0-9A-Fa-f]{4})");
-        static IWebDriver driver;
-        private static ChromeDriver Chrome()
+        public static IWebDriver Driver { get; set; }
+        public static ChromeDriver Chrome()
         {
             ChromeOptions options = new ChromeOptions();
             options.AddArgument("--enable-precise-memory-info");
@@ -21,7 +22,7 @@ namespace WebScrapApi
             options.AddArgument("--block-new-web-contents");
             return new ChromeDriver(options);
         }
-        private static FirefoxDriver Firefox()
+        public static FirefoxDriver Firefox()
         {
             FirefoxOptions options = new FirefoxOptions();
             options.AddArgument("--headless");
@@ -32,24 +33,13 @@ namespace WebScrapApi
             options.AddArgument("--block-new-web-contents");
             return new FirefoxDriver(options);
         }
-        public static async Task<HtmlDocument> GetPageDocument(Browser browser, string url)
+        public static async Task<HtmlDocument> GetPageDocument( string url)
         {
-            switch(browser)
-            {
-                case Browser.Firefox:
-                    driver = Firefox();
-                    break;
-                case Browser.Chrome:
-                    driver = Chrome();
-                    break;
-                    default:
-                    driver = Firefox();
-                    break;
-            }
-            driver.Navigate().GoToUrl(url);
-            string page = ReplaceString(driver.PageSource);
-            
-
+            if (Driver == null)
+                //Driver = Firefox();
+                Driver = Chrome();
+            Driver.Navigate().GoToUrl(url);
+            string page = ReplaceString(Driver.PageSource);
             var doc = new HtmlDocument();
             doc.LoadHtml(page);
             return doc;
@@ -57,9 +47,7 @@ namespace WebScrapApi
 
         private static string ReplaceString(string n)
         {
-            n = n.Replace("&lt;", "")
-                 .Replace("&gt;", "")
-                 .Replace("&quot;", "")
+            n = n.Replace("&quot;", "")
                  .Replace("&amp;", "")
                  .Replace("&szlig", "ß")
                  .Replace("&Auml", "Ä")
@@ -68,8 +56,8 @@ namespace WebScrapApi
                  .Replace("ouml", "ö")
                  .Replace("Uuml", "Ü")
                  .Replace("uuml", "ü")
-                 .Replace("&lt;", "<")
-                 .Replace("&gt;", ">");
+                 .Replace("&lt;", @$"< ")
+                 .Replace("&gt;", @$" > ");
             n = UnescapeUnicode(n);
 
             return n;
@@ -79,6 +67,16 @@ namespace WebScrapApi
             return Regex.Replace(str,
                 match => ((char)int.Parse(match.Value.Substring(2),
                     NumberStyles.HexNumber)).ToString());
+        }
+
+        public static void SaveAsJson(object animes, string filename)
+        {
+            using (StreamWriter file = File.CreateText(filename))
+            {
+                JsonSerializer serializer = new JsonSerializer();
+                serializer.Formatting = Formatting.Indented;
+                serializer.Serialize(file, animes);
+            }
         }
     }
 }

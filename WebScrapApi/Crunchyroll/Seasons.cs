@@ -1,9 +1,14 @@
-﻿namespace WebScrapApi.Crunchyroll
+﻿using MongoDB.Bson;
+using MongoDB.Bson.Serialization.Attributes;
+
+namespace WebScrapApi.Crunchyroll
 {
     public class Seasons
     {
-        public Guid ID { get; set; } = Guid.NewGuid();
+        [BsonElement("Name")]
         public string Name { get; set; }
+
+        [BsonElement("Episodes")]
         public Episode[] Episodes { get; set; }
     }
 }
