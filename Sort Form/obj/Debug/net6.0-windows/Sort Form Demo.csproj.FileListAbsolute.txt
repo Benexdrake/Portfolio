@@ -1,0 +1,34 @@
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Bubble Sort Form Demo\obj\Debug\net6.0-windows\Sort Form Demo.csproj.AssemblyReference.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Bubble Sort Form Demo\obj\Debug\net6.0-windows\Sort Form Demo.csproj.GenerateResource.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Bubble Sort Form Demo\obj\Debug\net6.0-windows\Sort Form Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Bubble Sort Form Demo\obj\Debug\net6.0-windows\Sort Form Demo.AssemblyInfoInputs.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Bubble Sort Form Demo\obj\Debug\net6.0-windows\Sort Form Demo.AssemblyInfo.cs
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Bubble Sort Form Demo\obj\Debug\net6.0-windows\Sort Form Demo.csproj.CoreCompileInputs.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Bubble Sort Form Demo\bin\Debug\net6.0-windows\Sort Form Demo.exe
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Bubble Sort Form Demo\bin\Debug\net6.0-windows\Sort Form Demo.deps.json
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Bubble Sort Form Demo\bin\Debug\net6.0-windows\Sort Form Demo.runtimeconfig.json
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Bubble Sort Form Demo\bin\Debug\net6.0-windows\Sort Form Demo.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Bubble Sort Form Demo\bin\Debug\net6.0-windows\Sort Form Demo.pdb
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Bubble Sort Form Demo\obj\Debug\net6.0-windows\Sort Form Demo.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Bubble Sort Form Demo\obj\Debug\net6.0-windows\refint\Sort Form Demo.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Bubble Sort Form Demo\obj\Debug\net6.0-windows\Sort Form Demo.pdb
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Bubble Sort Form Demo\obj\Debug\net6.0-windows\Sort Form Demo.genruntimeconfig.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Bubble Sort Form Demo\obj\Debug\net6.0-windows\ref\Sort Form Demo.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Bubble Sort Form Demo\obj\Debug\net6.0-windows\Sort_Form_Demo.Form1.resources
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Sort Form\bin\Debug\net6.0-windows\Sort Form Demo.exe
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Sort Form\bin\Debug\net6.0-windows\Sort Form Demo.deps.json
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Sort Form\bin\Debug\net6.0-windows\Sort Form Demo.runtimeconfig.json
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Sort Form\bin\Debug\net6.0-windows\Sort Form Demo.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Sort Form\bin\Debug\net6.0-windows\Sort Form Demo.pdb
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Sort Form\obj\Debug\net6.0-windows\Sort Form Demo.csproj.AssemblyReference.cache
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Sort Form\obj\Debug\net6.0-windows\Sort_Form_Demo.Form1.resources
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Sort Form\obj\Debug\net6.0-windows\Sort Form Demo.csproj.GenerateResource.cache
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Sort Form\obj\Debug\net6.0-windows\Sort Form Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Sort Form\obj\Debug\net6.0-windows\Sort Form Demo.AssemblyInfoInputs.cache
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Sort Form\obj\Debug\net6.0-windows\Sort Form Demo.AssemblyInfo.cs
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Sort Form\obj\Debug\net6.0-windows\Sort Form Demo.csproj.CoreCompileInputs.cache
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Sort Form\obj\Debug\net6.0-windows\Sort Form Demo.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Sort Form\obj\Debug\net6.0-windows\refint\Sort Form Demo.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Sort Form\obj\Debug\net6.0-windows\Sort Form Demo.pdb
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Sort Form\obj\Debug\net6.0-windows\Sort Form Demo.genruntimeconfig.cache
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Sort Form\obj\Debug\net6.0-windows\ref\Sort Form Demo.dll

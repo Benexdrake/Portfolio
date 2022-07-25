@@ -1,0 +1,54 @@
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\LoginMySqlForm\bin\Debug\net6.0-windows\LoginMySqlForm.exe
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\LoginMySqlForm\bin\Debug\net6.0-windows\LoginMySqlForm.deps.json
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\LoginMySqlForm\bin\Debug\net6.0-windows\LoginMySqlForm.runtimeconfig.json
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\LoginMySqlForm\bin\Debug\net6.0-windows\LoginMySqlForm.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\LoginMySqlForm\bin\Debug\net6.0-windows\LoginMySqlForm.pdb
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\LoginMySqlForm\obj\Debug\net6.0-windows\LoginMySqlForm.csproj.AssemblyReference.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\LoginMySqlForm\obj\Debug\net6.0-windows\LoginMySqlForm.Form1.resources
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\LoginMySqlForm\obj\Debug\net6.0-windows\LoginMySqlForm.Properties.Resources.resources
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\LoginMySqlForm\obj\Debug\net6.0-windows\LoginMySqlForm.csproj.GenerateResource.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\LoginMySqlForm\obj\Debug\net6.0-windows\LoginMySqlForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\LoginMySqlForm\obj\Debug\net6.0-windows\LoginMySqlForm.AssemblyInfoInputs.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\LoginMySqlForm\obj\Debug\net6.0-windows\LoginMySqlForm.AssemblyInfo.cs
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\LoginMySqlForm\obj\Debug\net6.0-windows\LoginMySqlForm.csproj.CoreCompileInputs.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\LoginMySqlForm\obj\Debug\net6.0-windows\LoginMySqlForm.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\LoginMySqlForm\obj\Debug\net6.0-windows\refint\LoginMySqlForm.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\LoginMySqlForm\obj\Debug\net6.0-windows\LoginMySqlForm.pdb
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\LoginMySqlForm\obj\Debug\net6.0-windows\LoginMySqlForm.genruntimeconfig.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\LoginMySqlForm\obj\Debug\net6.0-windows\ref\LoginMySqlForm.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\LoginMySqlForm\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\LoginMySqlForm\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\LoginMySqlForm\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\LoginMySqlForm\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\LoginMySqlForm\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\LoginMySqlForm\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\LoginMySqlForm\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\LoginMySqlForm\bin\Debug\net6.0-windows\ZstdNet.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\LoginMySqlForm\obj\Debug\net6.0-windows\LoginMySqlForm.csproj.CopyComplete
+C:\Users\Benex\Desktop\Portofolio\LoginMySqlForm\bin\Debug\net6.0-windows\LoginMySqlForm.exe
+C:\Users\Benex\Desktop\Portofolio\LoginMySqlForm\bin\Debug\net6.0-windows\LoginMySqlForm.deps.json
+C:\Users\Benex\Desktop\Portofolio\LoginMySqlForm\bin\Debug\net6.0-windows\LoginMySqlForm.runtimeconfig.json
+C:\Users\Benex\Desktop\Portofolio\LoginMySqlForm\bin\Debug\net6.0-windows\LoginMySqlForm.dll
+C:\Users\Benex\Desktop\Portofolio\LoginMySqlForm\bin\Debug\net6.0-windows\LoginMySqlForm.pdb
+C:\Users\Benex\Desktop\Portofolio\LoginMySqlForm\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Benex\Desktop\Portofolio\LoginMySqlForm\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Benex\Desktop\Portofolio\LoginMySqlForm\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Benex\Desktop\Portofolio\LoginMySqlForm\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Benex\Desktop\Portofolio\LoginMySqlForm\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Benex\Desktop\Portofolio\LoginMySqlForm\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Benex\Desktop\Portofolio\LoginMySqlForm\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\Benex\Desktop\Portofolio\LoginMySqlForm\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\Benex\Desktop\Portofolio\LoginMySqlForm\obj\Debug\net6.0-windows\LoginMySqlForm.csproj.AssemblyReference.cache
+C:\Users\Benex\Desktop\Portofolio\LoginMySqlForm\obj\Debug\net6.0-windows\LoginMySqlForm.Form1.resources
+C:\Users\Benex\Desktop\Portofolio\LoginMySqlForm\obj\Debug\net6.0-windows\LoginMySqlForm.Properties.Resources.resources
+C:\Users\Benex\Desktop\Portofolio\LoginMySqlForm\obj\Debug\net6.0-windows\LoginMySqlForm.csproj.GenerateResource.cache
+C:\Users\Benex\Desktop\Portofolio\LoginMySqlForm\obj\Debug\net6.0-windows\LoginMySqlForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benex\Desktop\Portofolio\LoginMySqlForm\obj\Debug\net6.0-windows\LoginMySqlForm.AssemblyInfoInputs.cache
+C:\Users\Benex\Desktop\Portofolio\LoginMySqlForm\obj\Debug\net6.0-windows\LoginMySqlForm.AssemblyInfo.cs
+C:\Users\Benex\Desktop\Portofolio\LoginMySqlForm\obj\Debug\net6.0-windows\LoginMySqlForm.csproj.CoreCompileInputs.cache
+C:\Users\Benex\Desktop\Portofolio\LoginMySqlForm\obj\Debug\net6.0-windows\LoginMySqlForm.csproj.CopyComplete
+C:\Users\Benex\Desktop\Portofolio\LoginMySqlForm\obj\Debug\net6.0-windows\LoginMySqlForm.dll
+C:\Users\Benex\Desktop\Portofolio\LoginMySqlForm\obj\Debug\net6.0-windows\refint\LoginMySqlForm.dll
+C:\Users\Benex\Desktop\Portofolio\LoginMySqlForm\obj\Debug\net6.0-windows\LoginMySqlForm.pdb
+C:\Users\Benex\Desktop\Portofolio\LoginMySqlForm\obj\Debug\net6.0-windows\LoginMySqlForm.genruntimeconfig.cache
+C:\Users\Benex\Desktop\Portofolio\LoginMySqlForm\obj\Debug\net6.0-windows\ref\LoginMySqlForm.dll

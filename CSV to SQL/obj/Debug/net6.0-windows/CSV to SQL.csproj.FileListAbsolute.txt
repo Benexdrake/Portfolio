@@ -1,0 +1,52 @@
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CSV to SQL\bin\Debug\net6.0-windows\CSV to SQL.exe
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CSV to SQL\bin\Debug\net6.0-windows\CSV to SQL.deps.json
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CSV to SQL\bin\Debug\net6.0-windows\CSV to SQL.runtimeconfig.json
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CSV to SQL\bin\Debug\net6.0-windows\CSV to SQL.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CSV to SQL\bin\Debug\net6.0-windows\CSV to SQL.pdb
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CSV to SQL\obj\Debug\net6.0-windows\CSV to SQL.csproj.AssemblyReference.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CSV to SQL\obj\Debug\net6.0-windows\CSV_to_SQL.Form1.resources
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CSV to SQL\obj\Debug\net6.0-windows\CSV to SQL.csproj.GenerateResource.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CSV to SQL\obj\Debug\net6.0-windows\CSV to SQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CSV to SQL\obj\Debug\net6.0-windows\CSV to SQL.AssemblyInfoInputs.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CSV to SQL\obj\Debug\net6.0-windows\CSV to SQL.AssemblyInfo.cs
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CSV to SQL\obj\Debug\net6.0-windows\CSV to SQL.csproj.CoreCompileInputs.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CSV to SQL\obj\Debug\net6.0-windows\CSV to SQL.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CSV to SQL\obj\Debug\net6.0-windows\refint\CSV to SQL.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CSV to SQL\obj\Debug\net6.0-windows\CSV to SQL.pdb
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CSV to SQL\obj\Debug\net6.0-windows\CSV to SQL.genruntimeconfig.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CSV to SQL\obj\Debug\net6.0-windows\ref\CSV to SQL.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CSV to SQL\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CSV to SQL\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CSV to SQL\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CSV to SQL\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CSV to SQL\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CSV to SQL\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CSV to SQL\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CSV to SQL\bin\Debug\net6.0-windows\ZstdNet.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CSV to SQL\obj\Debug\net6.0-windows\CSV to SQL.csproj.CopyComplete
+C:\Users\Benex\Desktop\Portofolio\CSV to SQL\bin\Debug\net6.0-windows\CSV to SQL.exe
+C:\Users\Benex\Desktop\Portofolio\CSV to SQL\bin\Debug\net6.0-windows\CSV to SQL.deps.json
+C:\Users\Benex\Desktop\Portofolio\CSV to SQL\bin\Debug\net6.0-windows\CSV to SQL.runtimeconfig.json
+C:\Users\Benex\Desktop\Portofolio\CSV to SQL\bin\Debug\net6.0-windows\CSV to SQL.dll
+C:\Users\Benex\Desktop\Portofolio\CSV to SQL\bin\Debug\net6.0-windows\CSV to SQL.pdb
+C:\Users\Benex\Desktop\Portofolio\CSV to SQL\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Benex\Desktop\Portofolio\CSV to SQL\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Benex\Desktop\Portofolio\CSV to SQL\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Benex\Desktop\Portofolio\CSV to SQL\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Benex\Desktop\Portofolio\CSV to SQL\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Benex\Desktop\Portofolio\CSV to SQL\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Benex\Desktop\Portofolio\CSV to SQL\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\Benex\Desktop\Portofolio\CSV to SQL\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\Benex\Desktop\Portofolio\CSV to SQL\obj\Debug\net6.0-windows\CSV to SQL.csproj.AssemblyReference.cache
+C:\Users\Benex\Desktop\Portofolio\CSV to SQL\obj\Debug\net6.0-windows\CSV_to_SQL.Form1.resources
+C:\Users\Benex\Desktop\Portofolio\CSV to SQL\obj\Debug\net6.0-windows\CSV to SQL.csproj.GenerateResource.cache
+C:\Users\Benex\Desktop\Portofolio\CSV to SQL\obj\Debug\net6.0-windows\CSV to SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benex\Desktop\Portofolio\CSV to SQL\obj\Debug\net6.0-windows\CSV to SQL.AssemblyInfoInputs.cache
+C:\Users\Benex\Desktop\Portofolio\CSV to SQL\obj\Debug\net6.0-windows\CSV to SQL.AssemblyInfo.cs
+C:\Users\Benex\Desktop\Portofolio\CSV to SQL\obj\Debug\net6.0-windows\CSV to SQL.csproj.CoreCompileInputs.cache
+C:\Users\Benex\Desktop\Portofolio\CSV to SQL\obj\Debug\net6.0-windows\CSV to SQL.csproj.CopyComplete
+C:\Users\Benex\Desktop\Portofolio\CSV to SQL\obj\Debug\net6.0-windows\CSV to SQL.dll
+C:\Users\Benex\Desktop\Portofolio\CSV to SQL\obj\Debug\net6.0-windows\refint\CSV to SQL.dll
+C:\Users\Benex\Desktop\Portofolio\CSV to SQL\obj\Debug\net6.0-windows\CSV to SQL.pdb
+C:\Users\Benex\Desktop\Portofolio\CSV to SQL\obj\Debug\net6.0-windows\CSV to SQL.genruntimeconfig.cache
+C:\Users\Benex\Desktop\Portofolio\CSV to SQL\obj\Debug\net6.0-windows\ref\CSV to SQL.dll

@@ -1,0 +1,30 @@
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\KaffeeAutomat-Console\bin\Debug\net6.0\KaffeeAutomat-Console.exe
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\KaffeeAutomat-Console\bin\Debug\net6.0\KaffeeAutomat-Console.deps.json
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\KaffeeAutomat-Console\bin\Debug\net6.0\KaffeeAutomat-Console.runtimeconfig.json
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\KaffeeAutomat-Console\bin\Debug\net6.0\KaffeeAutomat-Console.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\KaffeeAutomat-Console\bin\Debug\net6.0\ref\KaffeeAutomat-Console.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\KaffeeAutomat-Console\bin\Debug\net6.0\KaffeeAutomat-Console.pdb
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\KaffeeAutomat-Console\obj\Debug\net6.0\KaffeeAutomat-Console.csproj.AssemblyReference.cache
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\KaffeeAutomat-Console\obj\Debug\net6.0\KaffeeAutomat-Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\KaffeeAutomat-Console\obj\Debug\net6.0\KaffeeAutomat-Console.AssemblyInfoInputs.cache
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\KaffeeAutomat-Console\obj\Debug\net6.0\KaffeeAutomat-Console.AssemblyInfo.cs
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\KaffeeAutomat-Console\obj\Debug\net6.0\KaffeeAutomat-Console.csproj.CoreCompileInputs.cache
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\KaffeeAutomat-Console\obj\Debug\net6.0\KaffeeAutomat-Console.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\KaffeeAutomat-Console\obj\Debug\net6.0\ref\KaffeeAutomat-Console.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\KaffeeAutomat-Console\obj\Debug\net6.0\KaffeeAutomat-Console.pdb
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\KaffeeAutomat-Console\obj\Debug\net6.0\KaffeeAutomat-Console.genruntimeconfig.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\KaffeeAutomat-Console\bin\Debug\net6.0\KaffeeAutomat-Console.exe
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\KaffeeAutomat-Console\bin\Debug\net6.0\KaffeeAutomat-Console.deps.json
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\KaffeeAutomat-Console\bin\Debug\net6.0\KaffeeAutomat-Console.runtimeconfig.json
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\KaffeeAutomat-Console\bin\Debug\net6.0\KaffeeAutomat-Console.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\KaffeeAutomat-Console\bin\Debug\net6.0\KaffeeAutomat-Console.pdb
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\KaffeeAutomat-Console\obj\Debug\net6.0\KaffeeAutomat-Console.csproj.AssemblyReference.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\KaffeeAutomat-Console\obj\Debug\net6.0\KaffeeAutomat-Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\KaffeeAutomat-Console\obj\Debug\net6.0\KaffeeAutomat-Console.AssemblyInfoInputs.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\KaffeeAutomat-Console\obj\Debug\net6.0\KaffeeAutomat-Console.AssemblyInfo.cs
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\KaffeeAutomat-Console\obj\Debug\net6.0\KaffeeAutomat-Console.csproj.CoreCompileInputs.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\KaffeeAutomat-Console\obj\Debug\net6.0\KaffeeAutomat-Console.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\KaffeeAutomat-Console\obj\Debug\net6.0\refint\KaffeeAutomat-Console.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\KaffeeAutomat-Console\obj\Debug\net6.0\KaffeeAutomat-Console.pdb
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\KaffeeAutomat-Console\obj\Debug\net6.0\KaffeeAutomat-Console.genruntimeconfig.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\KaffeeAutomat-Console\obj\Debug\net6.0\ref\KaffeeAutomat-Console.dll

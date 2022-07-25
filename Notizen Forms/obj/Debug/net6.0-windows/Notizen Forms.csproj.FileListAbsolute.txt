@@ -1,0 +1,72 @@
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\bin\Debug\net6.0-windows\Notizen Forms.exe
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\bin\Debug\net6.0-windows\Notizen Forms.deps.json
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\bin\Debug\net6.0-windows\Notizen Forms.runtimeconfig.json
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\bin\Debug\net6.0-windows\Notizen Forms.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\bin\Debug\net6.0-windows\Notizen Forms.pdb
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen_Forms.MainForms.resources
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen Forms.csproj.GenerateResource.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen Forms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen Forms.AssemblyInfoInputs.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen Forms.AssemblyInfo.cs
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen Forms.csproj.CoreCompileInputs.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen Forms.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\ref\Notizen Forms.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen Forms.pdb
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen Forms.genruntimeconfig.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen Forms.csproj.AssemblyReference.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen_Forms.LoginForm.resources
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen_Forms.NewProtocolForms.resources
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\bin\Debug\net6.0-windows\ZstdNet.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen Forms.csproj.CopyComplete
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen_Forms.NotesForms.resources
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen_Forms.ExportViewForms.resources
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Core.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Access.Dao.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Interop.ACTIVEXLib.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen Forms.csproj.ResolveComReference.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen_Forms.Properties.Resources.resources
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\refint\Notizen Forms.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\bin\Debug\net6.0-windows\Notizen Forms.exe
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\bin\Debug\net6.0-windows\Notizen Forms.deps.json
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\bin\Debug\net6.0-windows\Notizen Forms.runtimeconfig.json
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\bin\Debug\net6.0-windows\Notizen Forms.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\bin\Debug\net6.0-windows\Notizen Forms.pdb
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\bin\Debug\net6.0-windows\ZstdNet.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen Forms.csproj.AssemblyReference.cache
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Core.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Access.Dao.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Interop.ACTIVEXLib.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen Forms.csproj.ResolveComReference.cache
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen_Forms.ExportViewForms.resources
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen_Forms.LoginForm.resources
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen_Forms.MainForms.resources
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen_Forms.NewProtocolForms.resources
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen_Forms.NotesForms.resources
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen_Forms.Properties.Resources.resources
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen Forms.csproj.GenerateResource.cache
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen Forms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen Forms.AssemblyInfoInputs.cache
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen Forms.AssemblyInfo.cs
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen Forms.csproj.CoreCompileInputs.cache
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen Forms.csproj.CopyComplete
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen Forms.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\refint\Notizen Forms.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen Forms.pdb
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\Notizen Forms.genruntimeconfig.cache
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Notizen Forms\obj\Debug\net6.0-windows\ref\Notizen Forms.dll

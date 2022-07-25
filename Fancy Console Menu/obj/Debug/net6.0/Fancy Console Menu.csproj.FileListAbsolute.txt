@@ -1,0 +1,30 @@
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Fancy Console Menu\obj\Debug\net6.0\Fancy Console Menu.csproj.AssemblyReference.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Fancy Console Menu\obj\Debug\net6.0\Fancy Console Menu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Fancy Console Menu\obj\Debug\net6.0\Fancy Console Menu.AssemblyInfoInputs.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Fancy Console Menu\obj\Debug\net6.0\Fancy Console Menu.AssemblyInfo.cs
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Fancy Console Menu\obj\Debug\net6.0\Fancy Console Menu.csproj.CoreCompileInputs.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Fancy Console Menu\bin\Debug\net6.0\Fancy Console Menu.exe
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Fancy Console Menu\bin\Debug\net6.0\Fancy Console Menu.deps.json
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Fancy Console Menu\bin\Debug\net6.0\Fancy Console Menu.runtimeconfig.json
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Fancy Console Menu\bin\Debug\net6.0\Fancy Console Menu.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Fancy Console Menu\bin\Debug\net6.0\Fancy Console Menu.pdb
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Fancy Console Menu\obj\Debug\net6.0\Fancy Console Menu.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Fancy Console Menu\obj\Debug\net6.0\ref\Fancy Console Menu.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Fancy Console Menu\obj\Debug\net6.0\Fancy Console Menu.pdb
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Fancy Console Menu\obj\Debug\net6.0\Fancy Console Menu.genruntimeconfig.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Fancy Console Menu\obj\Debug\net6.0\refint\Fancy Console Menu.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Fancy Console Menu\bin\Debug\net6.0\Fancy Console Menu.exe
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Fancy Console Menu\bin\Debug\net6.0\Fancy Console Menu.deps.json
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Fancy Console Menu\bin\Debug\net6.0\Fancy Console Menu.runtimeconfig.json
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Fancy Console Menu\bin\Debug\net6.0\Fancy Console Menu.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Fancy Console Menu\bin\Debug\net6.0\Fancy Console Menu.pdb
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Fancy Console Menu\obj\Debug\net6.0\Fancy Console Menu.csproj.AssemblyReference.cache
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Fancy Console Menu\obj\Debug\net6.0\Fancy Console Menu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Fancy Console Menu\obj\Debug\net6.0\Fancy Console Menu.AssemblyInfoInputs.cache
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Fancy Console Menu\obj\Debug\net6.0\Fancy Console Menu.AssemblyInfo.cs
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Fancy Console Menu\obj\Debug\net6.0\Fancy Console Menu.csproj.CoreCompileInputs.cache
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Fancy Console Menu\obj\Debug\net6.0\Fancy Console Menu.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Fancy Console Menu\obj\Debug\net6.0\refint\Fancy Console Menu.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Fancy Console Menu\obj\Debug\net6.0\Fancy Console Menu.pdb
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Fancy Console Menu\obj\Debug\net6.0\Fancy Console Menu.genruntimeconfig.cache
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Fancy Console Menu\obj\Debug\net6.0\ref\Fancy Console Menu.dll

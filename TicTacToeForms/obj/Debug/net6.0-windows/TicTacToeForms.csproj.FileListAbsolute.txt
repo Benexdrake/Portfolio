@@ -1,0 +1,34 @@
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\bin\Debug\net6.0-windows\TicTacToeForms.exe
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\bin\Debug\net6.0-windows\TicTacToeForms.deps.json
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\bin\Debug\net6.0-windows\TicTacToeForms.runtimeconfig.json
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\bin\Debug\net6.0-windows\TicTacToeForms.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\bin\Debug\net6.0-windows\ref\TicTacToeForms.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\bin\Debug\net6.0-windows\TicTacToeForms.pdb
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\obj\Debug\net6.0-windows\TicTacToeForms.csproj.AssemblyReference.cache
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\obj\Debug\net6.0-windows\Windows_Forms.Form1.resources
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\obj\Debug\net6.0-windows\TicTacToeForms.csproj.GenerateResource.cache
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\obj\Debug\net6.0-windows\TicTacToeForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\obj\Debug\net6.0-windows\TicTacToeForms.AssemblyInfoInputs.cache
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\obj\Debug\net6.0-windows\TicTacToeForms.AssemblyInfo.cs
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\obj\Debug\net6.0-windows\TicTacToeForms.csproj.CoreCompileInputs.cache
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\obj\Debug\net6.0-windows\TicTacToeForms.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\obj\Debug\net6.0-windows\ref\TicTacToeForms.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\obj\Debug\net6.0-windows\TicTacToeForms.pdb
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\obj\Debug\net6.0-windows\TicTacToeForms.genruntimeconfig.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\bin\Debug\net6.0-windows\TicTacToeForms.exe
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\bin\Debug\net6.0-windows\TicTacToeForms.deps.json
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\bin\Debug\net6.0-windows\TicTacToeForms.runtimeconfig.json
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\bin\Debug\net6.0-windows\TicTacToeForms.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\bin\Debug\net6.0-windows\TicTacToeForms.pdb
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\obj\Debug\net6.0-windows\TicTacToeForms.csproj.AssemblyReference.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\obj\Debug\net6.0-windows\Windows_Forms.Form1.resources
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\obj\Debug\net6.0-windows\TicTacToeForms.csproj.GenerateResource.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\obj\Debug\net6.0-windows\TicTacToeForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\obj\Debug\net6.0-windows\TicTacToeForms.AssemblyInfoInputs.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\obj\Debug\net6.0-windows\TicTacToeForms.AssemblyInfo.cs
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\obj\Debug\net6.0-windows\TicTacToeForms.csproj.CoreCompileInputs.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\obj\Debug\net6.0-windows\TicTacToeForms.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\obj\Debug\net6.0-windows\ref\TicTacToeForms.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\obj\Debug\net6.0-windows\TicTacToeForms.pdb
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\obj\Debug\net6.0-windows\TicTacToeForms.genruntimeconfig.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\TicTacToeForms\obj\Debug\net6.0-windows\refint\TicTacToeForms.dll

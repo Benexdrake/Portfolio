@@ -1,0 +1,74 @@
+﻿[
+	{
+		"id": 1,
+		"question": "Welche der folgenden Möglichkeiten ist nur bei der Verwendung von Open-Source-Software verfügbar?",
+		"answerA": "Freier Download aller vorhandenen Versionen",
+		"answerB": "Freie Nutzung für limitierte Anzahl Nutzer",
+		"answerC": "Zugriff auf die Dokumentation",
+		"answerD": "Zugriff auf den Quellcode",
+		"checkA": true,
+		"checkB": false,
+		"checkC": false,
+		"checkD": false
+	},
+	{
+		"id": 2,
+		"question": "Welches der folgenden ist Vorraussetzung für die GPL-Lizenz, aber nicht für die BSD-Lizenz?",
+		"answerA": "Benutzer, die Software unter der GPL-Lizenz ändern und vertreiben, müssen Änderungen\ndie sie vorgenommen haben, den Benutzern unter derselben Lizenz verfügbar machen",
+		"answerB": "Die GPL-Lizenz verbietet das Entfernen von Copiright- und Lizenzhinweisen aus Quellcodedateien",
+		"answerC": "Die GPL-Lizenz enthält einen Haftungsausschuss, der vorschreibt, dass Benutzer die\nSoftwareautoren nicht für Schäden haltbar machen dürfen",
+		"answerD": "Die GPL-Lizenz erfordert, dass alle Rechtsstreitigkeiten durch Free Software Foundation vermittelt werden",
+		"checkA": true,
+		"checkB": false,
+		"checkC": false,
+		"checkD": false
+	},
+	{
+		"id": 3,
+		"question": "Worum handelt es sich bei einer Community-Version?",
+		"answerA": "Eine Version die staatlich gefördert wird",
+		"answerB": "Eine freie Version die durch eine Community weiterentwickelt wird",
+		"answerC": "Eine kostenpflichtige Version einer GPL lizensierten Version",
+		"answerD": "Eine Software die der BSD-Lizenz unterliegt",
+		"checkA": false,
+		"checkB": true,
+		"checkC": false,
+		"checkD": false
+	},
+	{
+		"id": 4,
+		"question": "Was ist eine Distribution",
+		"answerA": "Sie besteht aus dem Linux-Kernel und einer Ansammlung von Software",
+		"answerB": "Die kostenlose Version eines Betriebssystems",
+		"answerC": "So nennt sich die Paketverwaltung unter Debian Linux",
+		"answerD": "Ein Zusammenschluss von Entwicklern die den Quellcode des Kernels weiterentwickeln",
+		"checkA": true,
+		"checkB": false,
+		"checkC": false,
+		"checkD": false
+	},
+	{
+		"id": 5,
+		"question": "Womit wird unter anderem versucht Distribution zu vereinheitlichen?",
+		"answerA": "Eingeschränkter Befehlssatz der Sprache C für die Entwicklung",
+		"answerB": "File System Hierarchy Standard",
+		"answerC": "Logical Volume Manager",
+		"answerD": "Software Release Standard",
+		"checkA": true,
+		"checkB": false,
+		"checkC": false,
+		"checkD": false
+	},
+	{
+		"id": 6,
+		"question": "Was ist OpenSUSE",
+		"answerA": "Die neuste Version von Red Hat",
+		"answerB": "Ein universales Treiberpaket für Linux Kernel",
+		"answerC": "Community-Version der Distribution SuSE",
+		"answerD": "Die Serverversion von Ubuntu",
+		"checkA": false,
+		"checkB": false,
+		"checkC": true,
+		"checkD": false
+	}
+]

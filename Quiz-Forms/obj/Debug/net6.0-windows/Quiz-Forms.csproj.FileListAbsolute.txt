@@ -1,0 +1,46 @@
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\bin\Debug\net6.0-windows\Quiz-Forms.exe
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\bin\Debug\net6.0-windows\Quiz-Forms.deps.json
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\bin\Debug\net6.0-windows\Quiz-Forms.runtimeconfig.json
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\bin\Debug\net6.0-windows\Quiz-Forms.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\bin\Debug\net6.0-windows\ref\Quiz-Forms.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\bin\Debug\net6.0-windows\Quiz-Forms.pdb
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\obj\Debug\net6.0-windows\Quiz-Forms.csproj.AssemblyReference.cache
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\obj\Debug\net6.0-windows\Quiz_Forms.End.resources
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\obj\Debug\net6.0-windows\Quiz_Forms.Game.resources
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\obj\Debug\net6.0-windows\Quiz_Forms.Main.resources
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\obj\Debug\net6.0-windows\Quiz_Forms.Start.resources
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\obj\Debug\net6.0-windows\Quiz-Forms.csproj.GenerateResource.cache
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\obj\Debug\net6.0-windows\Quiz-Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\obj\Debug\net6.0-windows\Quiz-Forms.AssemblyInfoInputs.cache
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\obj\Debug\net6.0-windows\Quiz-Forms.AssemblyInfo.cs
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\obj\Debug\net6.0-windows\Quiz-Forms.csproj.CoreCompileInputs.cache
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\obj\Debug\net6.0-windows\Quiz-Forms.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\obj\Debug\net6.0-windows\ref\Quiz-Forms.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\obj\Debug\net6.0-windows\Quiz-Forms.pdb
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\obj\Debug\net6.0-windows\Quiz-Forms.genruntimeconfig.cache
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\obj\Debug\net6.0-windows\Quiz-Forms.csproj.CopyComplete
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\bin\Debug\net6.0-windows\quiz.json
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\bin\Debug\net6.0-windows\Quiz-Forms.exe
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\bin\Debug\net6.0-windows\quiz.json
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\bin\Debug\net6.0-windows\Quiz-Forms.deps.json
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\bin\Debug\net6.0-windows\Quiz-Forms.runtimeconfig.json
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\bin\Debug\net6.0-windows\Quiz-Forms.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\bin\Debug\net6.0-windows\Quiz-Forms.pdb
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\obj\Debug\net6.0-windows\Quiz-Forms.csproj.AssemblyReference.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\obj\Debug\net6.0-windows\Quiz_Forms.End.resources
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\obj\Debug\net6.0-windows\Quiz_Forms.Game.resources
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\obj\Debug\net6.0-windows\Quiz_Forms.Main.resources
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\obj\Debug\net6.0-windows\Quiz_Forms.Start.resources
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\obj\Debug\net6.0-windows\Quiz-Forms.csproj.GenerateResource.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\obj\Debug\net6.0-windows\Quiz-Forms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\obj\Debug\net6.0-windows\Quiz-Forms.AssemblyInfoInputs.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\obj\Debug\net6.0-windows\Quiz-Forms.AssemblyInfo.cs
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\obj\Debug\net6.0-windows\Quiz-Forms.csproj.CoreCompileInputs.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\obj\Debug\net6.0-windows\Quiz-Forms.csproj.CopyComplete
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\obj\Debug\net6.0-windows\Quiz-Forms.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\obj\Debug\net6.0-windows\ref\Quiz-Forms.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\obj\Debug\net6.0-windows\Quiz-Forms.pdb
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\obj\Debug\net6.0-windows\Quiz-Forms.genruntimeconfig.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Quiz-Forms\obj\Debug\net6.0-windows\refint\Quiz-Forms.dll

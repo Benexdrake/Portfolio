@@ -1,0 +1,17 @@
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CelsiusFahrenheitForms\bin\Debug\net6.0-windows\CelsiusFahrenheitForms.exe
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CelsiusFahrenheitForms\bin\Debug\net6.0-windows\CelsiusFahrenheitForms.deps.json
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CelsiusFahrenheitForms\bin\Debug\net6.0-windows\CelsiusFahrenheitForms.runtimeconfig.json
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CelsiusFahrenheitForms\bin\Debug\net6.0-windows\CelsiusFahrenheitForms.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CelsiusFahrenheitForms\bin\Debug\net6.0-windows\CelsiusFahrenheitForms.pdb
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CelsiusFahrenheitForms\obj\Debug\net6.0-windows\CelsiusFahrenheitForms.csproj.AssemblyReference.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CelsiusFahrenheitForms\obj\Debug\net6.0-windows\CelsiusFahrenheitForms.Form1.resources
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CelsiusFahrenheitForms\obj\Debug\net6.0-windows\CelsiusFahrenheitForms.csproj.GenerateResource.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CelsiusFahrenheitForms\obj\Debug\net6.0-windows\CelsiusFahrenheitForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CelsiusFahrenheitForms\obj\Debug\net6.0-windows\CelsiusFahrenheitForms.AssemblyInfoInputs.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CelsiusFahrenheitForms\obj\Debug\net6.0-windows\CelsiusFahrenheitForms.AssemblyInfo.cs
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CelsiusFahrenheitForms\obj\Debug\net6.0-windows\CelsiusFahrenheitForms.csproj.CoreCompileInputs.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CelsiusFahrenheitForms\obj\Debug\net6.0-windows\CelsiusFahrenheitForms.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CelsiusFahrenheitForms\obj\Debug\net6.0-windows\refint\CelsiusFahrenheitForms.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CelsiusFahrenheitForms\obj\Debug\net6.0-windows\CelsiusFahrenheitForms.pdb
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CelsiusFahrenheitForms\obj\Debug\net6.0-windows\CelsiusFahrenheitForms.genruntimeconfig.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\CelsiusFahrenheitForms\obj\Debug\net6.0-windows\ref\CelsiusFahrenheitForms.dll

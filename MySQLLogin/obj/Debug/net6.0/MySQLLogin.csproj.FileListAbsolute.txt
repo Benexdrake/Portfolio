@@ -1,0 +1,140 @@
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\MySQLLogin.exe
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\MySQLLogin.deps.json
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\MySQLLogin.runtimeconfig.json
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\MySQLLogin.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\ref\MySQLLogin.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\MySQLLogin.pdb
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\obj\Debug\net6.0\MySQLLogin.csproj.AssemblyReference.cache
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\obj\Debug\net6.0\MySQLLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\obj\Debug\net6.0\MySQLLogin.AssemblyInfoInputs.cache
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\obj\Debug\net6.0\MySQLLogin.AssemblyInfo.cs
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\obj\Debug\net6.0\MySQLLogin.csproj.CoreCompileInputs.cache
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\obj\Debug\net6.0\MySQLLogin.csproj.CopyComplete
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\obj\Debug\net6.0\MySQLLogin.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\obj\Debug\net6.0\ref\MySQLLogin.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\obj\Debug\net6.0\MySQLLogin.pdb
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\obj\Debug\net6.0\MySQLLogin.genruntimeconfig.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\MySQLLogin.exe
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\MySQLLogin.deps.json
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\MySQLLogin.runtimeconfig.json
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\MySQLLogin.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\MySQLLogin.pdb
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\MySql.Data.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\ZstdNet.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\obj\Debug\net6.0\MySQLLogin.csproj.AssemblyReference.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\obj\Debug\net6.0\MySQLLogin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\obj\Debug\net6.0\MySQLLogin.AssemblyInfoInputs.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\obj\Debug\net6.0\MySQLLogin.AssemblyInfo.cs
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\obj\Debug\net6.0\MySQLLogin.csproj.CoreCompileInputs.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\obj\Debug\net6.0\MySQLLogin.csproj.CopyComplete
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\obj\Debug\net6.0\MySQLLogin.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\obj\Debug\net6.0\refint\MySQLLogin.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\obj\Debug\net6.0\MySQLLogin.pdb
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\obj\Debug\net6.0\MySQLLogin.genruntimeconfig.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\obj\Debug\net6.0\ref\MySQLLogin.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\MySQLLogin.exe
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\MySQLLogin.deps.json
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\MySQLLogin.runtimeconfig.json
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\MySQLLogin.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\MySQLLogin.pdb
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\MySql.Data.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\ZstdNet.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\obj\Debug\net6.0\MySQLLogin.csproj.AssemblyReference.cache
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\obj\Debug\net6.0\MySQLLogin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\obj\Debug\net6.0\MySQLLogin.AssemblyInfoInputs.cache
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\obj\Debug\net6.0\MySQLLogin.AssemblyInfo.cs
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\obj\Debug\net6.0\MySQLLogin.csproj.CoreCompileInputs.cache
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\obj\Debug\net6.0\MySQLLogin.csproj.CopyComplete
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\obj\Debug\net6.0\MySQLLogin.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\obj\Debug\net6.0\refint\MySQLLogin.dll
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\obj\Debug\net6.0\MySQLLogin.pdb
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\obj\Debug\net6.0\MySQLLogin.genruntimeconfig.cache
+D:\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\MySQLLogin\obj\Debug\net6.0\ref\MySQLLogin.dll
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\bin\Debug\net6.0\MySQLLogin.exe
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\bin\Debug\net6.0\MySQLLogin.deps.json
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\bin\Debug\net6.0\MySQLLogin.runtimeconfig.json
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\bin\Debug\net6.0\MySQLLogin.dll
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\bin\Debug\net6.0\MySQLLogin.pdb
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\obj\Debug\net6.0\MySQLLogin.csproj.AssemblyReference.cache
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\obj\Debug\net6.0\MySQLLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\obj\Debug\net6.0\MySQLLogin.AssemblyInfoInputs.cache
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\obj\Debug\net6.0\MySQLLogin.AssemblyInfo.cs
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\obj\Debug\net6.0\MySQLLogin.csproj.CoreCompileInputs.cache
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\obj\Debug\net6.0\MySQLLogin.csproj.CopyComplete
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\obj\Debug\net6.0\MySQLLogin.dll
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\obj\Debug\net6.0\refint\MySQLLogin.dll
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\obj\Debug\net6.0\MySQLLogin.pdb
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\obj\Debug\net6.0\MySQLLogin.genruntimeconfig.cache
+C:\Users\Benex\Desktop\Portofolio\MySQLLogin\obj\Debug\net6.0\ref\MySQLLogin.dll

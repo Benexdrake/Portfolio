@@ -1,0 +1,17 @@
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\UmwandlerForms\bin\Debug\net6.0-windows\UmwandlerForms.exe
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\UmwandlerForms\bin\Debug\net6.0-windows\UmwandlerForms.deps.json
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\UmwandlerForms\bin\Debug\net6.0-windows\UmwandlerForms.runtimeconfig.json
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\UmwandlerForms\bin\Debug\net6.0-windows\UmwandlerForms.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\UmwandlerForms\bin\Debug\net6.0-windows\UmwandlerForms.pdb
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\UmwandlerForms\obj\Debug\net6.0-windows\UmwandlerForms.csproj.AssemblyReference.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\UmwandlerForms\obj\Debug\net6.0-windows\UmwandlerForms.Form1.resources
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\UmwandlerForms\obj\Debug\net6.0-windows\UmwandlerForms.csproj.GenerateResource.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\UmwandlerForms\obj\Debug\net6.0-windows\UmwandlerForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\UmwandlerForms\obj\Debug\net6.0-windows\UmwandlerForms.AssemblyInfoInputs.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\UmwandlerForms\obj\Debug\net6.0-windows\UmwandlerForms.AssemblyInfo.cs
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\UmwandlerForms\obj\Debug\net6.0-windows\UmwandlerForms.csproj.CoreCompileInputs.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\UmwandlerForms\obj\Debug\net6.0-windows\UmwandlerForms.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\UmwandlerForms\obj\Debug\net6.0-windows\refint\UmwandlerForms.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\UmwandlerForms\obj\Debug\net6.0-windows\UmwandlerForms.pdb
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\UmwandlerForms\obj\Debug\net6.0-windows\UmwandlerForms.genruntimeconfig.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\UmwandlerForms\obj\Debug\net6.0-windows\ref\UmwandlerForms.dll

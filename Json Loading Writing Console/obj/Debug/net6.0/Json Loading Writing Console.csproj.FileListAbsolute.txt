@@ -1,0 +1,36 @@
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\bin\Debug\net6.0\Json Loading Writing Console.exe
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\bin\Debug\net6.0\Json Loading Writing Console.deps.json
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\bin\Debug\net6.0\Json Loading Writing Console.runtimeconfig.json
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\bin\Debug\net6.0\Json Loading Writing Console.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\bin\Debug\net6.0\ref\Json Loading Writing Console.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\bin\Debug\net6.0\Json Loading Writing Console.pdb
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\obj\Debug\net6.0\Json Loading Writing Console.csproj.AssemblyReference.cache
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\obj\Debug\net6.0\Json Loading Writing Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\obj\Debug\net6.0\Json Loading Writing Console.AssemblyInfoInputs.cache
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\obj\Debug\net6.0\Json Loading Writing Console.AssemblyInfo.cs
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\obj\Debug\net6.0\Json Loading Writing Console.csproj.CoreCompileInputs.cache
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\obj\Debug\net6.0\Json Loading Writing Console.csproj.CopyComplete
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\obj\Debug\net6.0\Json Loading Writing Console.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\obj\Debug\net6.0\ref\Json Loading Writing Console.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\obj\Debug\net6.0\Json Loading Writing Console.pdb
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\obj\Debug\net6.0\Json Loading Writing Console.genruntimeconfig.cache
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\bin\Debug\net6.0\Config
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\bin\Debug\net6.0\Config
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\bin\Debug\net6.0\Json Loading Writing Console.exe
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\bin\Debug\net6.0\Json Loading Writing Console.deps.json
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\bin\Debug\net6.0\Json Loading Writing Console.runtimeconfig.json
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\bin\Debug\net6.0\Json Loading Writing Console.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\bin\Debug\net6.0\Json Loading Writing Console.pdb
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\obj\Debug\net6.0\Json Loading Writing Console.csproj.AssemblyReference.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\obj\Debug\net6.0\Json Loading Writing Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\obj\Debug\net6.0\Json Loading Writing Console.AssemblyInfoInputs.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\obj\Debug\net6.0\Json Loading Writing Console.AssemblyInfo.cs
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\obj\Debug\net6.0\Json Loading Writing Console.csproj.CoreCompileInputs.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\obj\Debug\net6.0\Json Loading Writing Console.csproj.CopyComplete
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\obj\Debug\net6.0\Json Loading Writing Console.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\obj\Debug\net6.0\refint\Json Loading Writing Console.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\obj\Debug\net6.0\Json Loading Writing Console.pdb
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\obj\Debug\net6.0\Json Loading Writing Console.genruntimeconfig.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\Json Loading Writing Console\obj\Debug\net6.0\ref\Json Loading Writing Console.dll

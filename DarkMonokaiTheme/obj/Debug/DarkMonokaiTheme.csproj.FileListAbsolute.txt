@@ -1,0 +1,24 @@
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\DarkMonokaiTheme\bin\Debug\Dark Monokai.pkgdef
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\DarkMonokaiTheme\obj\Debug\DarkMonokaiTheme.csproj.AssemblyReference.cache
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\DarkMonokaiTheme\obj\Debug\_EmptyResource.resources
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\DarkMonokaiTheme\obj\Debug\DarkMonokaiTheme.csproj.GenerateResource.cache
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\DarkMonokaiTheme\obj\Debug\DarkMonokaiTheme.csproj.CoreCompileInputs.cache
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\DarkMonokaiTheme\obj\Debug\DarkMonokaiTheme.dll
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\DarkMonokaiTheme\obj\Debug\DarkMonokaiTheme.pdb
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\DarkMonokaiTheme\bin\Debug\DarkMonokaiTheme.vsix
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\DarkMonokaiTheme\bin\Debug\extension.vsixmanifest
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\DarkMonokaiTheme\obj\Debug\extension.vsixmanifest
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\DarkMonokaiTheme\obj\Debug\files.json
+C:\Users\Benex\Desktop\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\DarkMonokaiTheme\obj\Debug\createTemplateManifests.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\DarkMonokaiTheme\bin\Debug\Dark Monokai.pkgdef
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\DarkMonokaiTheme\bin\Debug\DarkMonokaiTheme.vsix
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\DarkMonokaiTheme\bin\Debug\extension.vsixmanifest
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\DarkMonokaiTheme\obj\Debug\DarkMonokaiTheme.csproj.AssemblyReference.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\DarkMonokaiTheme\obj\Debug\_EmptyResource.resources
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\DarkMonokaiTheme\obj\Debug\DarkMonokaiTheme.csproj.GenerateResource.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\DarkMonokaiTheme\obj\Debug\DarkMonokaiTheme.csproj.CoreCompileInputs.cache
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\DarkMonokaiTheme\obj\Debug\DarkMonokaiTheme.dll
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\DarkMonokaiTheme\obj\Debug\DarkMonokaiTheme.pdb
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\DarkMonokaiTheme\obj\Debug\extension.vsixmanifest
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\DarkMonokaiTheme\obj\Debug\files.json
+D:\Neuer Ordner\Anwendungsentwicklung\Anwendungsentwicklung-Lernen\DarkMonokaiTheme\obj\Debug\createTemplateManifests.cache
