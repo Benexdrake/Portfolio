@@ -1,20 +1,20 @@
 ﻿using MongoDB.Driver;
 using MongoDB.Driver.Linq;
 using MongoDB.Bson;
-using CrunchyrollAPI.Crunchyroll;
-using CrunchyrollAPI;
+using API.Crunchyroll;
+using API;
 
-namespace Web_Scraper.Crunchyroll
+namespace WSUpdater.Crunchyroll
 {
     internal class AnimeDocument
     {
         IMongoCollection<Anime> Collection;
         
-        API api;
+        CR_API api;
         public AnimeDocument(IMongoCollection<Anime> Collection)
         {
             this.Collection = Collection;
-            api = new API(Browser.Standard);
+            api = new CR_API(Browser.Standard);
         }
 
         public async Task<bool> InsertAnimeAsync(Anime anime)

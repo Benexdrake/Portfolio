@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\CelsiusFahrenheitForms\\CelsiusFahrenheitForms.csproj",
+      "projectUniqueName": "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\CelsiusFahrenheitForms\\CelsiusFahrenheitForms.csproj",
       "projectName": "CelsiusFahrenheitForms",
-      "projectPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\CelsiusFahrenheitForms\\CelsiusFahrenheitForms.csproj",
+      "projectPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\CelsiusFahrenheitForms\\CelsiusFahrenheitForms.csproj",
       "packagesPath": "C:\\Users\\Benex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\CelsiusFahrenheitForms\\obj\\",
+      "outputPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\CelsiusFahrenheitForms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

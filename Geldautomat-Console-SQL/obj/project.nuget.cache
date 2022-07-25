@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BA+VLVZAARC3BRFRo/oIP/KNdMhwucOLcpKeBOPeHcqGiYEicIz3QGhVlmF8R/B+l1JBRxEsF1ChyPqmPRo8Kw==",
+  "dgSpecHash": "n/8GgO+yJ1KvZG79CquNmtX1noWMqgVK3Ah2IhlqkWVmnaARPF+LXQ4FIWLNli+y+Vle5Q7P13DP/pvF4Th2XQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\Geldautomat-Console-SQL\\Geldautomat-Console-SQL.csproj",
+  "projectFilePath": "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\Geldautomat-Console-SQL\\Geldautomat-Console-SQL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Benex\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\Benex\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",

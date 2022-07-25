@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\CSV to SQL\\CSV to SQL.csproj": {}
+    "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\CSV to SQL\\CSV to SQL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\CSV to SQL\\CSV to SQL.csproj": {
+    "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\CSV to SQL\\CSV to SQL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\CSV to SQL\\CSV to SQL.csproj",
+        "projectUniqueName": "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\CSV to SQL\\CSV to SQL.csproj",
         "projectName": "CSV to SQL",
-        "projectPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\CSV to SQL\\CSV to SQL.csproj",
+        "projectPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\CSV to SQL\\CSV to SQL.csproj",
         "packagesPath": "C:\\Users\\Benex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\CSV to SQL\\obj\\",
+        "outputPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\CSV to SQL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

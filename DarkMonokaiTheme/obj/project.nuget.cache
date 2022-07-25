@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rqMQukrWAI868oZL2mpp9pewRdv6Tehp9ASBGafXbB5g/FvqdA26MokOqVU4Z21/ejW0K6q9jo/HMdQB9tHccQ==",
+  "dgSpecHash": "v2WJxsALE5WmpIHCYLdf323+P0JMwDAcf+RrT+iB24ehP9cj+8IU6ypr5lH/mNHqd8dj40eD2mXIOvSvHLUVgg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\DarkMonokaiTheme\\DarkMonokaiTheme.csproj",
+  "projectFilePath": "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\DarkMonokaiTheme\\DarkMonokaiTheme.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Benex\\.nuget\\packages\\envdte\\17.0.31902.203\\envdte.17.0.31902.203.nupkg.sha512",
     "C:\\Users\\Benex\\.nuget\\packages\\envdte100\\17.0.31902.203\\envdte100.17.0.31902.203.nupkg.sha512",

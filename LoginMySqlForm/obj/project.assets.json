@@ -859,11 +859,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\LoginMySqlForm\\LoginMySqlForm.csproj",
+      "projectUniqueName": "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\LoginMySqlForm\\LoginMySqlForm.csproj",
       "projectName": "LoginMySqlForm",
-      "projectPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\LoginMySqlForm\\LoginMySqlForm.csproj",
+      "projectPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\LoginMySqlForm\\LoginMySqlForm.csproj",
       "packagesPath": "C:\\Users\\Benex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\LoginMySqlForm\\obj\\",
+      "outputPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\LoginMySqlForm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

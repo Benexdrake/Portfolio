@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\Hangman-Console\\Hangman-Console.csproj": {}
+    "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\Hangman-Console\\Hangman-Console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\Hangman-Console\\Hangman-Console.csproj": {
+    "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\Hangman-Console\\Hangman-Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\Hangman-Console\\Hangman-Console.csproj",
+        "projectUniqueName": "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\Hangman-Console\\Hangman-Console.csproj",
         "projectName": "Hangman-Console",
-        "projectPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\Hangman-Console\\Hangman-Console.csproj",
+        "projectPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\Hangman-Console\\Hangman-Console.csproj",
         "packagesPath": "C:\\Users\\Benex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\Hangman-Console\\obj\\",
+        "outputPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\Hangman-Console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

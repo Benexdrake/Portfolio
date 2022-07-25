@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tlq6qSjUuxqyu3SslPI8WZ3BTkbOD7rXA5HCLgWYM2SpFF8jjwBAGVDsTfHrl3ou0EWJdfflKlYjoowV7O2ShA==",
+  "dgSpecHash": "Auz5TRX6EJld77V4okqn70D7r66jX0Aci+oE6zFI3Ljt+n+7FrJJhQ7FvfD78Nu/HJ7mBdmFSrAONVTdZqI+Nw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\Notizen Forms\\Notizen Forms.csproj",
+  "projectFilePath": "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\Notizen Forms\\Notizen Forms.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Benex\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\Benex\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",

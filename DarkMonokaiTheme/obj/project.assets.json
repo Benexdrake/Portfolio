@@ -9823,11 +9823,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\DarkMonokaiTheme\\DarkMonokaiTheme.csproj",
+      "projectUniqueName": "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\DarkMonokaiTheme\\DarkMonokaiTheme.csproj",
       "projectName": "DarkMonokaiTheme",
-      "projectPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\DarkMonokaiTheme\\DarkMonokaiTheme.csproj",
+      "projectPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\DarkMonokaiTheme\\DarkMonokaiTheme.csproj",
       "packagesPath": "C:\\Users\\Benex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\DarkMonokaiTheme\\obj\\",
+      "outputPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\DarkMonokaiTheme\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

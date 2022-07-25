@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CrunchyrollAPI\WS.CrunchyrollAPI.csproj" />
+    <ProjectReference Include="..\ws.API\WS.API.csproj" />
   </ItemGroup>
 
 </Project>

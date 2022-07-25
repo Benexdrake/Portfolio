@@ -1,8 +1,8 @@
 ﻿using MongoDB.Bson;
 using MongoDB.Driver;
-using CrunchyrollAPI.Crunchyroll;
+using API.Crunchyroll;
 
-namespace Web_Scraper.Classes
+namespace WSUpdater.Classes
 {
     public class Mongo_DB
     {

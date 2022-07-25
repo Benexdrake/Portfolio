@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\TicTacToeForms\\TicTacToeForms.csproj": {}
+    "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\TicTacToeForms\\TicTacToeForms.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\TicTacToeForms\\TicTacToeForms.csproj": {
+    "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\TicTacToeForms\\TicTacToeForms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\TicTacToeForms\\TicTacToeForms.csproj",
+        "projectUniqueName": "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\TicTacToeForms\\TicTacToeForms.csproj",
         "projectName": "TicTacToeForms",
-        "projectPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\TicTacToeForms\\TicTacToeForms.csproj",
+        "projectPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\TicTacToeForms\\TicTacToeForms.csproj",
         "packagesPath": "C:\\Users\\Benex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\TicTacToeForms\\obj\\",
+        "outputPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\TicTacToeForms\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

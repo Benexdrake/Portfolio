@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\ColorSliderForms\\ColorSliderForms.csproj",
+      "projectUniqueName": "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\ColorSliderForms\\ColorSliderForms.csproj",
       "projectName": "ColorSliderForms",
-      "projectPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\ColorSliderForms\\ColorSliderForms.csproj",
+      "projectPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\ColorSliderForms\\ColorSliderForms.csproj",
       "packagesPath": "C:\\Users\\Benex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\ColorSliderForms\\obj\\",
+      "outputPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\ColorSliderForms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

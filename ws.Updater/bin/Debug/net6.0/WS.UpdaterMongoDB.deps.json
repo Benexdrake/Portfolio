@@ -15,7 +15,7 @@
           "Selenium.WebDriver.ChromeDriver": "103.0.5060.13400",
           "Selenium.WebDriver.GeckoDriver": "0.31.0.1",
           "Selenium.WebDriver.GeckoDriver.Win64": "0.31.0",
-          "WS.CrunchyrollAPI": "1.0.0"
+          "WS.API": "1.0.0"
         },
         "runtime": {
           "WS.UpdaterMongoDB.dll": {}
@@ -187,7 +187,7 @@
         }
       },
       "System.Security.Principal.Windows/5.0.0": {},
-      "WS.CrunchyrollAPI/1.0.0": {
+      "WS.API/1.0.0": {
         "dependencies": {
           "HtmlAgilityPack": "1.11.43",
           "MongoDB.Bson": "2.17.0",
@@ -196,7 +196,7 @@
           "Selenium.WebDriver": "4.3.0"
         },
         "runtime": {
-          "WS.CrunchyrollAPI.dll": {}
+          "WS.API.dll": {}
         }
       }
     }
@@ -333,7 +333,7 @@
       "path": "system.security.principal.windows/5.0.0",
       "hashPath": "system.security.principal.windows.5.0.0.nupkg.sha512"
     },
-    "WS.CrunchyrollAPI/1.0.0": {
+    "WS.API/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

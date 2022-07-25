@@ -269,6 +269,23 @@
             "rid": "win"
           }
         }
+      },
+      "WS.API/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "HtmlAgilityPack": "1.11.43",
+          "MongoDB.Bson": "2.17.0",
+          "MongoDB.Driver": "2.17.0",
+          "Newtonsoft.Json": "13.0.1",
+          "Selenium.WebDriver": "4.3.0"
+        },
+        "compile": {
+          "bin/placeholder/WS.API.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WS.API.dll": {}
+        }
       }
     }
   },
@@ -813,18 +830,23 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "WS.API/1.0.0": {
+      "type": "project",
+      "path": "../ws.API/WS.API.csproj",
+      "msbuildProject": "../ws.API/WS.API.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\CrunchyrollAPI\\WS.CrunchyrollAPI.csproj",
       "HtmlAgilityPack >= 1.11.43",
       "MongoDB.Driver >= 2.17.0",
       "Newtonsoft.Json >= 13.0.1",
       "Selenium.WebDriver >= 4.3.0",
       "Selenium.WebDriver.ChromeDriver >= 103.0.5060.13400",
       "Selenium.WebDriver.GeckoDriver >= 0.31.0.1",
-      "Selenium.WebDriver.GeckoDriver.Win64 >= 0.31.0"
+      "Selenium.WebDriver.GeckoDriver.Win64 >= 0.31.0",
+      "WS.API >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -834,11 +856,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\ws.Updater\\WS.UpdaterMongoDB.csproj",
+      "projectUniqueName": "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\ws.Updater\\WS.UpdaterMongoDB.csproj",
       "projectName": "WS.UpdaterMongoDB",
-      "projectPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\ws.Updater\\WS.UpdaterMongoDB.csproj",
+      "projectPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\ws.Updater\\WS.UpdaterMongoDB.csproj",
       "packagesPath": "C:\\Users\\Benex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\ws.Updater\\obj\\",
+      "outputPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\ws.Updater\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -859,8 +881,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\CrunchyrollAPI\\WS.CrunchyrollAPI.csproj": {
-              "projectPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\CrunchyrollAPI\\WS.CrunchyrollAPI.csproj"
+            "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\ws.API\\WS.API.csproj": {
+              "projectPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\ws.API\\WS.API.csproj"
             }
           }
         }
@@ -922,16 +944,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Das Projekt \"C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\CrunchyrollAPI\\WS.CrunchyrollAPI.csproj\" wurde nicht gefunden. Stellen Sie sicher, dass der Projektverweis gültig und die Projektdatei vorhanden ist.",
-      "libraryId": "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\CrunchyrollAPI\\WS.CrunchyrollAPI.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  }
 }

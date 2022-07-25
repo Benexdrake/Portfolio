@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\Unicode Escape Sequence Converter Console\\Unicode Escape Sequence Converter Console.csproj",
+      "projectUniqueName": "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\Unicode Escape Sequence Converter Console\\Unicode Escape Sequence Converter Console.csproj",
       "projectName": "Unicode Escape Sequence Converter Console",
-      "projectPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\Unicode Escape Sequence Converter Console\\Unicode Escape Sequence Converter Console.csproj",
+      "projectPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\Unicode Escape Sequence Converter Console\\Unicode Escape Sequence Converter Console.csproj",
       "packagesPath": "C:\\Users\\Benex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portofolio\\Unicode Escape Sequence Converter Console\\obj\\",
+      "outputPath": "C:\\Users\\Benex\\Desktop\\Projects\\Portfolio\\Unicode Escape Sequence Converter Console\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

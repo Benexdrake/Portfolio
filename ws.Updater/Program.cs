@@ -1,4 +1,5 @@
-﻿namespace Web_Scraper
+﻿using WSUpdater.Classes;
+namespace WSUpdater
 {
     public class Program
     {
