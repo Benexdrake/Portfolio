@@ -15,11 +15,12 @@ namespace API.Classes
         public static ChromeDriver Chrome()
         {
             ChromeOptions options = new ChromeOptions();
-            options.AddArgument("--enable-precise-memory-info");
-            options.AddArgument("--disable-popup-blocking");
-            options.AddArgument("--enable-precise-memory-info");
-            options.AddArgument("--blink-settings=imagesEnabled=false");
-            options.AddArgument("--block-new-web-contents");
+            //options.AddArgument("--enable-precise-memory-info");
+            //options.AddArgument("--disable-popup-blocking");
+            //options.AddArgument("--enable-precise-memory-info");
+            //options.AddArgument("--blink-settings=imagesEnabled=false");
+            //options.AddArgument("--block-new-web-contents");
+            options.AddArgument("--enable-javascript");
             return new ChromeDriver(options);
         }
         public static FirefoxDriver Firefox()
@@ -30,9 +31,13 @@ namespace API.Classes
             options.AddArgument("--disable-popup-blocking");
             options.AddArgument("--enable-precise-memory-info");
             options.AddArgument("--blink-settings=imagesEnabled=false");
+            options.AddArgument("--enable-javascript");
             options.AddArgument("--block-new-web-contents");
             return new FirefoxDriver(options);
         }
+
+        
+
         public static async Task<HtmlDocument> GetPageDocument(string url)
         {
             if (Driver == null)

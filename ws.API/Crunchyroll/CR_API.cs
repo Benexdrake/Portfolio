@@ -120,36 +120,39 @@ namespace API.Crunchyroll
             string[] tags = {"No Tags"};
             var htmldocument = await Helper.GetPageDocument(url);
             var List = FindNodesByDocument(htmldocument, "div", "class", "new-template-body").Result.ToList().FirstOrDefault();
-
-            var listBlock = FindNodesByNode(List, "ul", "class", "list-block").Result.ToList().FirstOrDefault();
-            var listBlockLists = FindNodesByNode(listBlock, "li", "class", "large-margin-bottom").Result.ToList().Last();
-            //var lists = listBlockLists.Descendants()
-            var a = listBlockLists.Descendants("a").ToList();
-            var publisher = await GetPublisherAsync(a[0]);
-
-            if(a.Count >1)
+            if (List != null)
             {
-                var tagList = new List<HtmlNode>();
-                for (int i = 1; i < a.Count-2; i++)
+                var listBlock = FindNodesByNode(List, "ul", "class", "list-block").Result.ToList().FirstOrDefault();
+                var listBlockLists = FindNodesByNode(listBlock, "li", "class", "large-margin-bottom").Result.ToList().Last();
+                //var lists = listBlockLists.Descendants()
+                var a = listBlockLists.Descendants("a").ToList();
+                var publisher = await GetPublisherAsync(a[0]);
+
+                if (a.Count > 1)
                 {
-                    tagList.Add(a[i]);
+                    var tagList = new List<HtmlNode>();
+                    for (int i = 1; i < a.Count - 2; i++)
+                    {
+                        tagList.Add(a[i]);
+                    }
+                    tags = await GetAnimeTagsAsyn(tagList);
                 }
-                tags = await GetAnimeTagsAsyn(tagList);
-            }
 
-            var anime = new Anime()
-            {
-                Image = await GetAnimeImageAsync(List),
-                Name = await GetAnimeNameAsync(List),
-                Rating = await GetAnimeRatingAsync(List),
-                Tags = tags,
-                Description = await GetAnimeDescriptionAsync(List),
-                Publisher = publisher,
-                Url = url,
-                Seasons = await GetAnimeSeasonsAsync(List),
-            };
-            anime.Episodes = anime.EpisodesCount();
-            return anime;
+                var anime = new Anime()
+                {
+                    Image = await GetAnimeImageAsync(List),
+                    Name = await GetAnimeNameAsync(List),
+                    Rating = await GetAnimeRatingAsync(List),
+                    Tags = tags,
+                    Description = await GetAnimeDescriptionAsync(List),
+                    Publisher = publisher,
+                    Url = url,
+                    Seasons = await GetAnimeSeasonsAsync(List),
+                };
+                anime.Episodes = anime.EpisodesCount();
+                return anime;
+            }
+            return null;
         }
 
         

@@ -1,0 +1,293 @@
+﻿<!DOCTYPE html>
+<!-- saved from url=(0014)about:internet -->
+ <html xmlns:msxsl="urn:schemas-microsoft-com:xslt"><head><meta content="en-us" http-equiv="Content-Language" /><meta content="text/html; charset=utf-16" http-equiv="Content-Type" /><title _locID="ConversionReport0">
+          Migrationsbericht
+        </title><style> 
+                    /* Body style, for the entire document */
+                    body
+                    {
+                        background: #F3F3F4;
+                        color: #1E1E1F;
+                        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+                        padding: 0;
+                        margin: 0;
+                    }
+
+                    /* Header1 style, used for the main title */
+                    h1
+                    {
+                        padding: 10px 0px 10px 10px;
+                        font-size: 21pt;
+                        background-color: #E2E2E2;
+                        border-bottom: 1px #C1C1C2 solid; 
+                        color: #201F20;
+                        margin: 0;
+                        font-weight: normal;
+                    }
+
+                    /* Header2 style, used for "Overview" and other sections */
+                    h2
+                    {
+                        font-size: 18pt;
+                        font-weight: normal;
+                        padding: 15px 0 5px 0;
+                        margin: 0;
+                    }
+
+                    /* Header3 style, used for sub-sections, such as project name */
+                    h3
+                    {
+                        font-weight: normal;
+                        font-size: 15pt;
+                        margin: 0;
+                        padding: 15px 0 5px 0;
+                        background-color: transparent;
+                    }
+
+                    /* Color all hyperlinks one color */
+                    a
+                    {
+                        color: #1382CE;
+                    }
+
+                    /* Table styles */ 
+                    table
+                    {
+                        border-spacing: 0 0;
+                        border-collapse: collapse;
+                        font-size: 10pt;
+                    }
+
+                    table th
+                    {
+                        background: #E7E7E8;
+                        text-align: left;
+                        text-decoration: none;
+                        font-weight: normal;
+                        padding: 3px 6px 3px 6px;
+                    }
+
+                    table td
+                    {
+                        vertical-align: top;
+                        padding: 3px 6px 5px 5px;
+                        margin: 0px;
+                        border: 1px solid #E7E7E8;
+                        background: #F7F7F8;
+                    }
+
+                    /* Local link is a style for hyperlinks that link to file:/// content, there are lots so color them as 'normal' text until the user mouse overs */
+                    .localLink
+                    {
+                        color: #1E1E1F;
+                        background: #EEEEED;
+                        text-decoration: none;
+                    }
+
+                    .localLink:hover
+                    {
+                        color: #1382CE;
+                        background: #FFFF99;
+                        text-decoration: none;
+                    }
+
+                    /* Center text, used in the over views cells that contain message level counts */ 
+                    .textCentered
+                    {
+                        text-align: center;
+                    }
+
+                    /* The message cells in message tables should take up all avaliable space */
+                    .messageCell
+                    {
+                        width: 100%;
+                    }
+
+                    /* Padding around the content after the h1 */ 
+                    #content 
+                    {
+	                    padding: 0px 12px 12px 12px; 
+                    }
+
+                    /* The overview table expands to width, with a max width of 97% */ 
+                    #overview table
+                    {
+                        width: auto;
+                        max-width: 75%; 
+                    }
+
+                    /* The messages tables are always 97% width */
+                    #messages table
+                    {
+                        width: 97%;
+                    }
+
+                    /* All Icons */
+                    .IconSuccessEncoded, .IconInfoEncoded, .IconWarningEncoded, .IconErrorEncoded
+                    {
+                        min-width:18px;
+                        min-height:18px; 
+                        background-repeat:no-repeat;
+                        background-position:center;
+                    }
+
+                    /* Success icon encoded */
+                    .IconSuccessEncoded
+                    {
+                        /* Note: Do not delete the comment below. It is used to verify the correctness of the encoded image resource below before the product is released */
+                        /* [---XsltValidateInternal-Base64EncodedImage:IconSuccess#Begin#background-image: url(data:image/png;base64,#Separator#);#End#] */
+                        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABcElEQVR4Xq2TsUsCURzHv15g8ZJcBWlyiYYgCIWcb9DFRRwMW5TA2c0/QEFwFkxxUQdxVlBwCYWOi6IhWgQhBLHJUCkhLr/BW8S7gvrAg+N+v8/v+x68Z8MGy+XSCyABQAXgBgHGALoASkIIDWSLeLBetdHryMjd5IxQPWT4rn1c/P7+xxp72Cs9m5SZ0Bq2vPnbPFafK2zDvmNHypdC0BPkLlQhxJsCAhQoZwdZU5mwxh720qGo8MzTxTTKZDPCx2HoVzp6lz0Q9tKhyx0kGs8Ny+TkWRKk8lCROwEduhyg9l/6lunOPSfmH3NUH6uQ0KHLAe7JYvJjevm+DAMGJHToKtigE+vwvIidxLamb8IBY9e+C5LiXREkfho3TSd06HJA13/oh6T51MTsfQbHrsMynQ5dDihFjiK8JJAU9AKIWTp76dCVN7HWHrajmUEGvyF9nkbAE6gLIS7kTUyuf2gscLoJrElZo/Mvj+nPz/kLTmfnEwP3tB0AAAAASUVORK5CYII=);
+                    }
+
+                    /* Information icon encoded */
+                    .IconInfoEncoded
+                    {
+                        /* Note: Do not delete the comment below. It is used to verify the correctness of the encoded image resource below before the product is released */
+                        /* [---XsltValidateInternal-Base64EncodedImage:IconInformation#Begin#background-image: url(data:image/png;base64,#Separator#);#End#] */
+                        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHElEQVR4Xs2TsUoDQRRF7wwoziokjZUKadInhdhukR9YP8DMX1hYW+QvdsXa/QHBbcXC7W0CamWTQnclFutceIQJwwaWNLlwm5k5d94M76mmaeCrrmsLYOocY12FcxZFUeozCqKqqgYA8uevv1H6VuPxcwlfk5N92KHBxfFeCSAxxswlYAW/Xr989x/mv9gkhtyMDhcAxgzRsp7flj8B/HF1RsMXq+NZMkopaHe7lbKxQUEIGbKsYNoGn969060hZBkQex/W8oRQwsQaW2o3Ago2SVcJUzAgY3N0lTCZZm+zPS8HB51gMmS1DEYyOz9acKO1D8JWTlafKIMxdhvlfdyT94Vv5h7P8Ky7nQzACmhvKq3zk3PjW9asz9D/1oigecsioooAAAAASUVORK5CYII=);
+                    }
+
+                    /* Warning icon encoded */
+                    .IconWarningEncoded
+                    {
+                        /* Note: Do not delete the comment below. It is used to verify the correctness of the encoded image resource below before the product is released */
+                        /* [---XsltValidateInternal-Base64EncodedImage:IconWarning#Begin#background-image: url(data:image/png;base64,#Separator#);#End#] */
+                        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAx0lEQVR4XpWSMQ7CMAxFf4xAyBMLCxMrO8dhaBcuwdCJS3RJBw7SA/QGTCxdWJgiQYWKXJWKIXHIlyw5lqr34tQgEOdcBsCOx5yZK3hCCKdYXneQkh4pEfqzLfu+wVDSyyzFoJjfz9NB+pAF+eizx2Vruts0k15mPgvS6GYvpVtQhB61IB/dk6AF6fS4Ben0uIX5odtFe8Q/eW1KvFeH4e8khT6+gm5B+t3juyDt7n0jpe+CANTd+oTUjN/U3yVaABnSUjFz/gFq44JaVSCXeQAAAABJRU5ErkJggg==);
+                    }
+
+                    /* Error icon encoded */
+                    .IconErrorEncoded
+                    {
+                        /* Note: Do not delete the comment below. It is used to verify the correctness of the encoded image resource below before the product is released */
+                        /* [---XsltValidateInternal-Base64EncodedImage:IconError#Begin#background-image: url(data:image/png;base64,#Separator#);#End#] */
+                        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABQElEQVR4XqWTvUoEQRCE6wYPZUA80AfwAQz23uCMjA7MDRQEIzPBVEyNTQUFIw00vcQTTMzuAh/AxEQQT8HF/3G/oGGnEUGuoNnd6qoZuqltyKEsyzVJq5I6rnUp6SjGeGhESikzzlc1eL7opfuVbrqbU1Zw9NCgtQMaZpY0eNnaaL2fHusvTK5vKu7sjSS1Y4y3QUA6K3e3Mau5UFDyMP7tYF9o8cAHZv68vipoIJg971PZIZ5HiwdvYGGvFVFHmGmZ2MxwmQYPXubPl9Up0tfoMQGetXd6mRbvhBw+boZ6WF7Mbv1+GsHRk0fQmPAH1GfmZirbCfDJ61tw3Px8/8pZsPAG4jlVhcPgZ7adwNWBB68lkRQWFiTgFlbnLY3DGGM7izIJIyT/jjIvEJw6fdJTc6krDzh6aMwMP9bvDH4ADSsa9uSWVJkAAAAASUVORK5CYII=);
+                    }
+                 </style><script type="text/javascript" language="javascript"> 
+          
+            // Startup 
+            // Hook up the the loaded event for the document/window, to linkify the document content
+            var startupFunction = function() { linkifyElement("messages"); };
+            
+            if(window.attachEvent)
+            {
+              window.attachEvent('onload', startupFunction);
+            }
+            else if (window.addEventListener) 
+            {
+              window.addEventListener('load', startupFunction, false);
+            }
+            else 
+            {
+              document.addEventListener('load', startupFunction, false);
+            } 
+            
+            // Toggles the visibility of table rows with the specified name 
+            function toggleTableRowsByName(name)
+            {
+               var allRows = document.getElementsByTagName('tr');
+               for (i=0; i < allRows.length; i++)
+               {
+                  var currentName = allRows[i].getAttribute('name');
+                  if(!!currentName && currentName.indexOf(name) == 0)
+                  {
+                      var isVisible = allRows[i].style.display == ''; 
+                      isVisible ? allRows[i].style.display = 'none' : allRows[i].style.display = '';
+                  }
+               }
+            }
+            
+            function scrollToFirstVisibleRow(name) 
+            {
+               var allRows = document.getElementsByTagName('tr');
+               for (i=0; i < allRows.length; i++)
+               {
+                  var currentName = allRows[i].getAttribute('name');
+                  var isVisible = allRows[i].style.display == ''; 
+                  if(!!currentName && currentName.indexOf(name) == 0 && isVisible)
+                  {
+                     allRows[i].scrollIntoView(true); 
+                     return true; 
+                  }
+               }
+               
+               return false;
+            }
+            
+            // Linkifies the specified text content, replaces candidate links with html links 
+            function linkify(text)
+            {
+                 if(!text || 0 === text.length)
+                 {
+                     return text; 
+                 }
+
+                 // Find http, https and ftp links and replace them with hyper links 
+                 var urlLink = /(http|https|ftp)\:\/\/[a-zA-Z0-9\-\.]+(:[a-zA-Z0-9]*)?\/?([a-zA-Z0-9\-\._\?\,\/\\\+&%\$#\=~;\{\}])*/gi;
+                 
+                 return text.replace(urlLink, '<a href="$&">$&</a>') ;
+            }
+            
+            // Linkifies the specified element by ID
+            function linkifyElement(id)
+            {
+                var element = document.getElementById(id);
+                if(!!element)
+                {
+                  element.innerHTML = linkify(element.innerHTML); 
+                }
+            }
+            
+            function ToggleMessageVisibility(projectName)
+            {
+              if(!projectName || 0 === projectName.length)
+              {
+                return; 
+              }
+              
+              toggleTableRowsByName("MessageRowClass" + projectName);
+              toggleTableRowsByName('MessageRowHeaderShow' + projectName);
+              toggleTableRowsByName('MessageRowHeaderHide' + projectName); 
+            }
+            
+            function ScrollToFirstVisibleMessage(projectName)
+            {
+              if(!projectName || 0 === projectName.length)
+              {
+                return; 
+              }
+              
+              // First try the 'Show messages' row
+              if(!scrollToFirstVisibleRow('MessageRowHeaderShow' + projectName))
+              {
+                // Failed to find a visible row for 'Show messages', try an actual message row 
+                scrollToFirstVisibleRow('MessageRowClass' + projectName); 
+              }
+            }
+           </script></head><body><h1 _locID="ConversionReport">
+          Migrationsbericht - </h1><div id="content"><h2 _locID="OverviewTitle">Übersicht</h2><div id="overview"><table><tr><th></th><th _locID="ProjectTableHeader">Projekt</th><th _locID="PathTableHeader">Pfad</th><th _locID="ErrorsTableHeader">Fehler</th><th _locID="WarningsTableHeader">Warnungen</th><th _locID="MessagesTableHeader">Meldungen</th></tr><tr><td class="IconErrorEncoded" /><td><strong><a href="#DarkMonokaiTheme">DarkMonokaiTheme</a></strong></td><td>DarkMonokaiTheme\DarkMonokaiTheme.csproj</td><td class="textCentered"><a href="#DarkMonokaiThemeError">1</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#CelsiusFahrenheitForms">CelsiusFahrenheitForms</a></strong></td><td>CelsiusFahrenheitForms\CelsiusFahrenheitForms.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#ColorSliderForms">ColorSliderForms</a></strong></td><td>ColorSliderForms\ColorSliderForms.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#CSV to SQL">CSV to SQL</a></strong></td><td>CSV to SQL\CSV to SQL.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#Fancy Console Menu">Fancy Console Menu</a></strong></td><td>Fancy Console Menu\Fancy Console Menu.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#Geldautomat-Console">Geldautomat-Console</a></strong></td><td>Geldautomat-Console\Geldautomat-Console.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#Geldautomat-Console-SQL">Geldautomat-Console-SQL</a></strong></td><td>Geldautomat-Console-SQL\Geldautomat-Console-SQL.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#Hangman-Console">Hangman-Console</a></strong></td><td>Hangman-Console\Hangman-Console.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#Json Loading Writing Console">Json Loading Writing Console</a></strong></td><td>Json Loading Writing Console\Json Loading Writing Console.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#KaffeeAutomat-Console">KaffeeAutomat-Console</a></strong></td><td>KaffeeAutomat-Console\KaffeeAutomat-Console.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#LoginMySqlForm">LoginMySqlForm</a></strong></td><td>LoginMySqlForm\LoginMySqlForm.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#MySQLLogin">MySQLLogin</a></strong></td><td>MySQLLogin\MySQLLogin.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#Notizen Forms">Notizen Forms</a></strong></td><td>Notizen Forms\Notizen Forms.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#Quiz-Forms">Quiz-Forms</a></strong></td><td>Quiz-Forms\Quiz-Forms.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#SHA256Forms">SHA256Forms</a></strong></td><td>SHA256Forms\SHA256Forms.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#Sort Form Demo">Sort Form Demo</a></strong></td><td>Sort Form\Sort Form Demo.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#TicTacToeForms">TicTacToeForms</a></strong></td><td>TicTacToeForms\TicTacToeForms.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#UmwandlerForms">UmwandlerForms</a></strong></td><td>UmwandlerForms\UmwandlerForms.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#Unicode Escape Sequence Converter Console">Unicode Escape Sequence Converter Console</a></strong></td><td>Unicode Escape Sequence Converter Console\Unicode Escape Sequence Converter Console.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#WS.API">WS.API</a></strong></td><td>ws.API\WS.API.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#WS.UpdaterMongoDB">WS.UpdaterMongoDB</a></strong></td><td>ws.Updater\WS.UpdaterMongoDB.csproj</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#Solution"><span _locID="OverviewSolutionSpan">Projektmappe</span></a></strong></td><td>Portofolio.sln</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#" onclick="ScrollToFirstVisibleMessage('Solution'); return false;">1</a></td></tr></table></div><h2 _locID="SolutionAndProjectsTitle">Projektmappen und Projekte</h2><div id="messages"><a name="DarkMonokaiTheme" /><h3>DarkMonokaiTheme</h3><table><tr id="DarkMonokaiThemeHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr name="ErrorRowClassDarkMonokaiTheme"><td class="IconErrorEncoded"><a name="DarkMonokaiThemeError" /></td><td class="messageCell"><strong>DarkMonokaiTheme\DarkMonokaiTheme.csproj:
+        </strong><span>Die Anwendung, auf der dieser Projekttyp basiert, wurde nicht gefunden. Klicken Sie auf diesen Link, um weitere Informationen anzuzeigen: http://go.microsoft.com/fwlink/?LinkID=299083&amp;projecttype=82b43b9b-a64c-4715-b499-d71e9ca2bd60</span></td></tr></table><a name="CelsiusFahrenheitForms" /><h3>CelsiusFahrenheitForms</h3><table><tr id="CelsiusFahrenheitFormsHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">CelsiusFahrenheitForms Keine Meldungen protokolliert.
+                  </td></tr></table><a name="ColorSliderForms" /><h3>ColorSliderForms</h3><table><tr id="ColorSliderFormsHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">ColorSliderForms Keine Meldungen protokolliert.
+                  </td></tr></table><a name="CSV to SQL" /><h3>CSV to SQL</h3><table><tr id="CSV to SQLHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">CSV to SQL Keine Meldungen protokolliert.
+                  </td></tr></table><a name="Fancy Console Menu" /><h3>Fancy Console Menu</h3><table><tr id="Fancy Console MenuHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">Fancy Console Menu Keine Meldungen protokolliert.
+                  </td></tr></table><a name="Geldautomat-Console" /><h3>Geldautomat-Console</h3><table><tr id="Geldautomat-ConsoleHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">Geldautomat-Console Keine Meldungen protokolliert.
+                  </td></tr></table><a name="Geldautomat-Console-SQL" /><h3>Geldautomat-Console-SQL</h3><table><tr id="Geldautomat-Console-SQLHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">Geldautomat-Console-SQL Keine Meldungen protokolliert.
+                  </td></tr></table><a name="Hangman-Console" /><h3>Hangman-Console</h3><table><tr id="Hangman-ConsoleHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">Hangman-Console Keine Meldungen protokolliert.
+                  </td></tr></table><a name="Json Loading Writing Console" /><h3>Json Loading Writing Console</h3><table><tr id="Json Loading Writing ConsoleHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">Json Loading Writing Console Keine Meldungen protokolliert.
+                  </td></tr></table><a name="KaffeeAutomat-Console" /><h3>KaffeeAutomat-Console</h3><table><tr id="KaffeeAutomat-ConsoleHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">KaffeeAutomat-Console Keine Meldungen protokolliert.
+                  </td></tr></table><a name="LoginMySqlForm" /><h3>LoginMySqlForm</h3><table><tr id="LoginMySqlFormHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">LoginMySqlForm Keine Meldungen protokolliert.
+                  </td></tr></table><a name="MySQLLogin" /><h3>MySQLLogin</h3><table><tr id="MySQLLoginHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">MySQLLogin Keine Meldungen protokolliert.
+                  </td></tr></table><a name="Notizen Forms" /><h3>Notizen Forms</h3><table><tr id="Notizen FormsHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">Notizen Forms Keine Meldungen protokolliert.
+                  </td></tr></table><a name="Quiz-Forms" /><h3>Quiz-Forms</h3><table><tr id="Quiz-FormsHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">Quiz-Forms Keine Meldungen protokolliert.
+                  </td></tr></table><a name="SHA256Forms" /><h3>SHA256Forms</h3><table><tr id="SHA256FormsHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">SHA256Forms Keine Meldungen protokolliert.
+                  </td></tr></table><a name="Sort Form Demo" /><h3>Sort Form Demo</h3><table><tr id="Sort Form DemoHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">Sort Form Demo Keine Meldungen protokolliert.
+                  </td></tr></table><a name="TicTacToeForms" /><h3>TicTacToeForms</h3><table><tr id="TicTacToeFormsHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">TicTacToeForms Keine Meldungen protokolliert.
+                  </td></tr></table><a name="UmwandlerForms" /><h3>UmwandlerForms</h3><table><tr id="UmwandlerFormsHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">UmwandlerForms Keine Meldungen protokolliert.
+                  </td></tr></table><a name="Unicode Escape Sequence Converter Console" /><h3>Unicode Escape Sequence Converter Console</h3><table><tr id="Unicode Escape Sequence Converter ConsoleHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">Unicode Escape Sequence Converter Console Keine Meldungen protokolliert.
+                  </td></tr></table><a name="WS.API" /><h3>WS.API</h3><table><tr id="WS.APIHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">WS.API Keine Meldungen protokolliert.
+                  </td></tr></table><a name="WS.UpdaterMongoDB" /><h3>WS.UpdaterMongoDB</h3><table><tr id="WS.UpdaterMongoDBHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr><td class="IconInfoEncoded" /><td class="messageCell" _locID="NoMessagesRow">WS.UpdaterMongoDB Keine Meldungen protokolliert.
+                  </td></tr></table><a name="Solution" /><h3 _locID="ProjectDisplayNameHeader">Projektmappe</h3><table><tr id="SolutionHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Meldung</th></tr><tr name="MessageRowHeaderShowSolution"><td class="IconInfoEncoded" /><td class="messageCell"><a _locID="ShowAdditionalMessages" href="#" name="SolutionMessage" onclick="ToggleMessageVisibility('Solution'); return false;">
+          Anzeigen 1 Weitere Meldungen
+        </a></td></tr><tr name="MessageRowClassSolution" style="display: none"><td class="IconInfoEncoded"><a name="SolutionMessage" /></td><td class="messageCell"><strong>Portofolio.sln:
+        </strong><span>Die Projektmappendatei erfordert keine Migration.</span></td></tr><tr style="display: none" name="MessageRowHeaderHideSolution"><td class="IconInfoEncoded" /><td class="messageCell"><a _locID="HideAdditionalMessages" href="#" name="SolutionMessage" onclick="ToggleMessageVisibility('Solution'); return false;">
+          Ausblenden 1 Weitere Meldungen
+        </a></td></tr></table></div></div></body></html>

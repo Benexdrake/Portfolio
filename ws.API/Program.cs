@@ -6,12 +6,12 @@ namespace API
         static void Main(string[] args)
         {
             // All Webscraper in this Class / Browser Firefox or Chrome
-            var api = new CR_API(Browser.Firefox);
-            
-            // Get an Anime with Url
-            var AnimeByUrl = api.GetAnimeByUrlAsync("https://www.crunchyroll.com/de/parallel-world-pharmacy").Result;
-
-            Console.WriteLine(AnimeByUrl);
+            //var api = new CR_API(Browser.Firefox);
+            //
+            //// Get an Anime with Url
+            //var AnimeByUrl = api.GetAnimeByUrlAsync("https://www.crunchyroll.com/de/the-rising-of-the-shield-hero").Result;
+            //
+            //Console.WriteLine(AnimeByUrl);
 
             //// Get all Animes from https://www.crunchyroll.com/de/videos/anime/alpha?group=all
             //var AllAnimeByUrl = api.GetAllAnimeURLsAsync().Result;
