@@ -10,3 +10,15 @@ C:\Users\Benex\Desktop\Projects\Learning\MySQL API\obj\Debug\net6.0\MySQL API.dl
 C:\Users\Benex\Desktop\Projects\Learning\MySQL API\obj\Debug\net6.0\refint\MySQL API.dll
 C:\Users\Benex\Desktop\Projects\Learning\MySQL API\obj\Debug\net6.0\MySQL API.pdb
 C:\Users\Benex\Desktop\Projects\Learning\MySQL API\obj\Debug\net6.0\ref\MySQL API.dll
+C:\Users\Benex\Desktop\Projects\Portfolio\MySQL API\bin\Debug\net6.0\MySQL API.deps.json
+C:\Users\Benex\Desktop\Projects\Portfolio\MySQL API\bin\Debug\net6.0\MySQL API.dll
+C:\Users\Benex\Desktop\Projects\Portfolio\MySQL API\bin\Debug\net6.0\MySQL API.pdb
+C:\Users\Benex\Desktop\Projects\Portfolio\MySQL API\obj\Debug\net6.0\MySQL API.csproj.AssemblyReference.cache
+C:\Users\Benex\Desktop\Projects\Portfolio\MySQL API\obj\Debug\net6.0\MySQL API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benex\Desktop\Projects\Portfolio\MySQL API\obj\Debug\net6.0\MySQL API.AssemblyInfoInputs.cache
+C:\Users\Benex\Desktop\Projects\Portfolio\MySQL API\obj\Debug\net6.0\MySQL API.AssemblyInfo.cs
+C:\Users\Benex\Desktop\Projects\Portfolio\MySQL API\obj\Debug\net6.0\MySQL API.csproj.CoreCompileInputs.cache
+C:\Users\Benex\Desktop\Projects\Portfolio\MySQL API\obj\Debug\net6.0\MySQL API.dll
+C:\Users\Benex\Desktop\Projects\Portfolio\MySQL API\obj\Debug\net6.0\refint\MySQL API.dll
+C:\Users\Benex\Desktop\Projects\Portfolio\MySQL API\obj\Debug\net6.0\MySQL API.pdb
+C:\Users\Benex\Desktop\Projects\Portfolio\MySQL API\obj\Debug\net6.0\ref\MySQL API.dll
