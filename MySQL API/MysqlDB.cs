@@ -74,6 +74,7 @@ namespace MySQL_API
                         list.Add(column);
                     }
                 }
+                Con.Close();
             }
 
             return list;
@@ -89,8 +90,10 @@ namespace MySQL_API
             {
                 Cmd = Con.CreateCommand();
                 Cmd.CommandType = CommandType.Text;
-                Cmd.CommandText = sql;
-                return Reader = Cmd.ExecuteReader();
+                Cmd.CommandText = sql;    
+                Reader = Cmd.ExecuteReader();
+                Con.Close();
+                return Reader;
             }
             return null;
         }

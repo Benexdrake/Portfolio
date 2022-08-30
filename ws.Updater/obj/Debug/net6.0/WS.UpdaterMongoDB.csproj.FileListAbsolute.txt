@@ -79,3 +79,4 @@ C:\Users\Benex\Desktop\Projects\Portfolio\ws.Updater\bin\Debug\net6.0\WS.API.run
 C:\Users\Benex\Desktop\Projects\Portfolio\ws.Updater\bin\Debug\net6.0\WS.API.exe
 C:\Users\Benex\Desktop\Projects\Portfolio\ws.Updater\bin\Debug\net6.0\WS.API.dll
 C:\Users\Benex\Desktop\Projects\Portfolio\ws.Updater\bin\Debug\net6.0\WS.API.pdb
+C:\Users\Benex\Desktop\Projects\Portfolio\ws.Updater\bin\Debug\net6.0\chromedriver.exe

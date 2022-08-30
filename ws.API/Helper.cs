@@ -33,7 +33,10 @@ namespace API.Classes
             options.AddArgument("--blink-settings=imagesEnabled=false");
             options.AddArgument("--enable-javascript");
             options.AddArgument("--block-new-web-contents");
-            return new FirefoxDriver(options);
+            FirefoxDriverService FService = FirefoxDriverService.CreateDefaultService();
+            FService.HideCommandPromptWindow = true;
+
+            return new FirefoxDriver(FService, options);
         }
 
         
