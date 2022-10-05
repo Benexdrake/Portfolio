@@ -11,26 +11,16 @@ namespace Json_Loading_Writing_Console
     {
         string filePath = "Config";
         
-        public void loadJson()
+        public User[] loadJson()
         {
-            
             string strResult = File.ReadAllText(filePath);
-            var list = JsonConvert.DeserializeObject<User>(strResult);
-            User user = JsonConvert.DeserializeObject<User>(strResult);
-
-            if(user != null)
-            {
-                Console.WriteLine(user.id);
-            }   
+            User[] users = JsonConvert.DeserializeObject<User[]>(strResult);
+            return users;
         }
-        public void writeJson(User user)
+        public void writeJson(User[] users)
         {
-            string jsonString = JsonConvert.SerializeObject(user);
+            string jsonString = JsonConvert.SerializeObject(users, Formatting.Indented);
             File.WriteAllText(filePath, jsonString);
-            Console.WriteLine(jsonString);
-
         }
-
-
     }
 }
