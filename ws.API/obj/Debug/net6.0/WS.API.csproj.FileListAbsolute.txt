@@ -1,4 +1,3 @@
-C:\Users\Benex\Desktop\Projects\Portfolio\ws.API\bin\Debug\net6.0\geckodriver.exe
 C:\Users\Benex\Desktop\Projects\Portfolio\ws.API\bin\Debug\net6.0\WS.API.exe
 C:\Users\Benex\Desktop\Projects\Portfolio\ws.API\bin\Debug\net6.0\WS.API.deps.json
 C:\Users\Benex\Desktop\Projects\Portfolio\ws.API\bin\Debug\net6.0\WS.API.runtimeconfig.json

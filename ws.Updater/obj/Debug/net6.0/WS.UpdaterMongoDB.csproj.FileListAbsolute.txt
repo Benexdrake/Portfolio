@@ -73,7 +73,6 @@ C:\Users\Benex\Desktop\Projects\Portfolio\ws.Updater\obj\Debug\net6.0\WS.Updater
 C:\Users\Benex\Desktop\Projects\Portfolio\ws.Updater\obj\Debug\net6.0\WS.UpdaterMongoDB.csproj.CopyComplete
 C:\Users\Benex\Desktop\Projects\Portfolio\ws.Updater\obj\Debug\net6.0\WS.UpdaterMongoDB.genruntimeconfig.cache
 C:\Users\Benex\Desktop\Projects\Portfolio\ws.Updater\obj\Debug\net6.0\ref\WS.UpdaterMongoDB.dll
-C:\Users\Benex\Desktop\Projects\Portfolio\ws.Updater\bin\Debug\net6.0\geckodriver.exe
 C:\Users\Benex\Desktop\Projects\Portfolio\ws.Updater\bin\Debug\net6.0\WS.API.deps.json
 C:\Users\Benex\Desktop\Projects\Portfolio\ws.Updater\bin\Debug\net6.0\WS.API.runtimeconfig.json
 C:\Users\Benex\Desktop\Projects\Portfolio\ws.Updater\bin\Debug\net6.0\WS.API.exe

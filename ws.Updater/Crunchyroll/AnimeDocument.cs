@@ -33,13 +33,13 @@ namespace WSUpdater.Crunchyroll
             return ok;
         }
 
-        public async Task<bool> UpdateAnimeAsync(Anime anime, string id)
+        public async Task<bool> UpdateAnimeAsync(Anime anime, ObjectId id)
         {
             bool ok = false;
             try
             {
-                anime.ID = id;
-                Collection.ReplaceOne(x => x.ID.Equals(id), anime);
+                anime.Id = id;
+                Collection.ReplaceOne(x => x.Id.Equals(id), anime);
                 ok = true;
             }
             catch (Exception)
@@ -150,7 +150,7 @@ namespace WSUpdater.Crunchyroll
                         var id = check.Where(x => x.Name.Equals(anime.Name)).ToList().FirstOrDefault();
                         if (id != null)
                         {
-                            var ok = UpdateAnimeAsync(anime, id.ID).Result;
+                            var ok = UpdateAnimeAsync(anime, id.Id).Result;
                             if(ok)
                             {
                                 Console.WriteLine("<><><> Updated: " + check[i].Name);

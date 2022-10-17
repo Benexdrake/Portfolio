@@ -9,8 +9,8 @@ namespace API.Crunchyroll
         private int episodes;
         [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]
-        public string ID { get; set; }
-        
+        public ObjectId Id { get; set; } = ObjectId.GenerateNewId();
+
         public string Name { get; set; }
 
         
@@ -45,31 +45,15 @@ namespace API.Crunchyroll
         public string Rating { get; set; }
 
       
-        public string[] Tags { get; set; }
+        public string Tags { get; set; }
 
         
         public string Publisher { get; set; }
         
-        public DateTime LastUpdate { get; set; } = DateTime.Now.AddHours(2);
+        //public DateTime LastUpdate { get; set; }
         public override string ToString()
         {
-            return $"{Name}\n\nDescription: {Description}\nUrl: {Url}\n\nImage: {Image}\n\nSeasons: {Seasons.Length}\n\nEpisodes: {Episodes}\n\nRating: {Rating}\n\nTags: {GetTags()}\n\nPublisher: {Publisher}";
-        }
-
-        public string GetTags()
-        {
-            string tags = string.Empty;
-
-            if (Tags.Length > 1)
-            {
-                foreach (var tag in Tags)
-                {
-                    tags += tag + ", ";
-                }
-                return tags.Remove(tags.Length - 2, 1);
-            }
-            else
-                return Tags[0];
+            return $"{Name}\n\nDescription: {Description}\nUrl: {Url}\n\nImage: {Image}\n\nSeasons: {Seasons.Length}\n\nEpisodes: {Episodes}\n\nRating: {Rating}\n\nTags: {Tags}\n\nPublisher: {Publisher}";
         }
 
         public int EpisodesCount()
@@ -87,9 +71,5 @@ namespace API.Crunchyroll
             }
             return n;
         }
-
-
     }
-
-
 }

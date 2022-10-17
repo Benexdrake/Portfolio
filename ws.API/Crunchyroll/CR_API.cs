@@ -1,5 +1,6 @@
 ﻿using HtmlAgilityPack;
 using API.Classes;
+using MongoDB.Bson;
 
 namespace API.Crunchyroll
 {
@@ -117,14 +118,14 @@ namespace API.Crunchyroll
         #region Get an Anime from Crunchyroll with an url
         public async Task<Anime> GetAnimeByUrlAsync(string url)
         {
-            string[] tags = {"No Tags"};
+            string tags = "No Tags";
             var htmldocument = await Helper.GetPageDocument(url);
             var List = FindNodesByDocument(htmldocument, "div", "class", "new-template-body").Result.ToList().FirstOrDefault();
             if (List != null)
             {
                 var listBlock = FindNodesByNode(List, "ul", "class", "list-block").Result.ToList().FirstOrDefault();
                 var listBlockLists = FindNodesByNode(listBlock, "li", "class", "large-margin-bottom").Result.ToList().Last();
-                //var lists = listBlockLists.Descendants()
+                
                 var a = listBlockLists.Descendants("a").ToList();
                 var publisher = await GetPublisherAsync(a[0]);
 
@@ -140,6 +141,7 @@ namespace API.Crunchyroll
 
                 var anime = new Anime()
                 {
+                    Id = ObjectId.GenerateNewId(),
                     Image = await GetAnimeImageAsync(List),
                     Name = await GetAnimeNameAsync(List),
                     Rating = await GetAnimeRatingAsync(List),
@@ -208,14 +210,18 @@ namespace API.Crunchyroll
             }
             return "No Description";
         }
-        private async Task<string[]> GetAnimeTagsAsyn(List<HtmlNode> a)
+        private async Task<string> GetAnimeTagsAsyn(List<HtmlNode> a)
         {
-            var tags = new List<string>();
+            string tags = string.Empty;
             foreach (var item in a)
             {
-                tags.Add(item.InnerText);
+                tags += item.InnerText + ", ";
             }
-            return tags.ToArray();
+
+            if(!string.IsNullOrWhiteSpace(tags))
+                tags = tags.Substring(0, tags.Length - 2);
+
+            return tags;
         }
         private async Task<string> GetPublisherAsync(HtmlNode a)
         {
@@ -251,6 +257,7 @@ namespace API.Crunchyroll
 
                 SeasonList.Add(new Seasons()
                 {
+                    Id = ObjectId.GenerateNewId(),
                     Name = name,
                     Episodes = await GetAnimeEpisodes(season)
                 });
@@ -270,6 +277,7 @@ namespace API.Crunchyroll
                 {
                     episodes[i] = new Episode();
                     var img = await GetEpisodeImageAsync(episodeList[i]);
+                    episodes[i].Id = ObjectId.GenerateNewId();
                     episodes[i].Url = "https://www.crunchyroll.com" + episodeList[i].Descendants("a").ToList().FirstOrDefault().GetAttributeValue("href", "");
                     episodes[i].Image = img;
                     string text = script[i].InnerText;
